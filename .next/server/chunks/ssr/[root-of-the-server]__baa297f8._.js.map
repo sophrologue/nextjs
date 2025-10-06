@@ -1,8 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/OYO/Desktop/jsn/catherine_fabrici/src/app/assets/main_bg.png.mjs%20%28structured%20image%20object%20with%20data%20url%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 1920, height: 1190, blurWidth: 8, blurHeight: 5, blurDataURL: \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAnUlEQVR42g3G3QrBYACA4e8GJFJo2NT8ZMOY/49YzabVWhQ1GuVgrThx4Ppfzh7R6BRpzSoM9y38q40MTYbLOqatoKg5hLlR2V4svPuC5OOSfQP8yMIYVdD0AmKw03HjKcFTEmcOj5fD+e+JVDGsKsKY1BivNdZhn0MiOaUOt/cWN+pjLxsIRctTb+bRe2UWQRcvmXNMJat9G71T4gc9/UKl9Xga1QAAAABJRU5ErkJggg==\"};\n"],"names":[],"mappings":";;;;AAAA;;uCACe;IAAE,KAAA,mIAAG;IAAE,OAAO;IAAM,QAAQ;IAAM,WAAW;IAAG,YAAY;IAAG,aAAa;AAAwT","debugId":null}},
-    {"offset": {"line": 36, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/OYO/Desktop/jsn/catherine_fabrici/src/app/page.tsx"],"sourcesContent":["import background_image from \"./assets/main_bg.png\"\n\nexport default function Home() {\n  return (\n  <section \n    className=\"min-h-screen bg-cover bg-center bg-no-repeat\"\n    style={{\n      backgroundImage: `url(${background_image.src})`\n    }}\n  >\n  </section>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACA,8OAAC;QACC,WAAU;QACV,OAAO;YACL,iBAAiB,CAAC,IAAI,EAAE,0TAAgB,CAAC,GAAG,CAAC,CAAC,CAAC;QACjD;;;;;;AAIJ","debugId":null}}]
-}
