@@ -1118,6 +1118,10 @@
     width: calc(var(--spacing) * 20);
   }
 
+  .w-28 {
+    width: calc(var(--spacing) * 28);
+  }
+
   .w-32 {
     width: calc(var(--spacing) * 32);
   }
