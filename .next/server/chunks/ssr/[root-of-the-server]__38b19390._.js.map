@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/OYO/Desktop/jsn/catherine_fabrici/src/app/page.tsx"],"sourcesContent":["import background_image from \"./assets/main_bg.png\"\n\nexport default function Home() {\n  return (\n  <section \n    className=\"min-h-screen bg-cover bg-center bg-no-repeat\"\n    style={{\n      backgroundImage: `url(${background_image.src})`\n    }}\n  >\n  </section>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;AAEe,SAAS;IACtB,qBACA,8OAAC;QACC,WAAU;QACV,OAAO;YACL,iBAAiB,CAAC,IAAI,EAAE,iBAAiB,GAAG,CAAC,CAAC,CAAC;QACjD;;;;;;AAIJ","debugId":null}}]
+}
