@@ -37,8 +37,15 @@ export default function RootLayout({
        </main>
        
       </body>
-      <footer>
-        <SocietyMark />
+   <footer className="bg-[#f8fafc] text-center text-gray-700 text-sm py-6 mt-8 border-t border-gray-200">
+        <div className="flex flex-col items-center gap-2">
+          <SocietyMark />
+          <div className="mt-2">
+            <span className="block font-semibold">N° de SIRET 832 217 657 000 17</span>
+            <span className="block mt-1">En aucun cas la sophrologie ne remplace un traitement ou un avis médical</span>
+            <span className="block mt-1">© 2023. FABRICI CATHERINE. All Rights Reserved.</span>
+          </div>
+        </div>
       </footer>
     </html>
   );
