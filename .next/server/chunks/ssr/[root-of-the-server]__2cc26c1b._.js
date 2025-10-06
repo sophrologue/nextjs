@@ -10,6 +10,27 @@ __turbopack_context__.n(__turbopack_context__.i("[project]/src/app/favicon.ico.m
 
 __turbopack_context__.n(__turbopack_context__.i("[project]/src/app/layout.tsx [app-rsc] (ecmascript)"));
 }),
+"[project]/src/app/(assets)/catherine-fabrici.png (static in ecmascript)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/catherine-fabrici.ba9c7d06.png");}),
+"[project]/src/app/(assets)/catherine-fabrici.png.mjs { IMAGE => \"[project]/src/app/(assets)/catherine-fabrici.png (static in ecmascript)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f28$assets$292f$catherine$2d$fabrici$2e$png__$28$static__in__ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/(assets)/catherine-fabrici.png (static in ecmascript)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f28$assets$292f$catherine$2d$fabrici$2e$png__$28$static__in__ecmascript$29$__["default"],
+    width: 683,
+    height: 834,
+    blurWidth: 7,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAYAAAA1BOUGAAAA7UlEQVR42g3NT0vCYBwH8OfllGUHZagoRgb2rObGXG7usfBPpLGCWkuSBcK6lELltRbRKxD0qh4Fr74f/X31/Dl8mB88o/3i4sl/xO//H+aLJYbjESaz6ZqdX+gwhAq7auDeayIMPxB+9zAYdImljiSYW+y/tfEeeAheXfR7HXx+dYhljiU8uDUEvoOfrodWS8CqqLi+s4gpdhKiegbllEMUijBLGlT9ZFvJxIqNFEoij8N0FvuROPQCx41TQb1pEkvkdsGVDLLJNCI7MTQsDc5tGZc1nRi34uu8lqDoQYyiexLJPEdlW6b6lbHaAC8+d7PeHzY3AAAAAElFTkSuQmCC"
+};
+}),
 "[project]/src/app/qui-je-suis/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -18,8 +39,11 @@ __turbopack_context__.s([
     ()=>__TURBOPACK__default__export__
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f28$assets$292f$catherine$2d$fabrici$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$app$2f28$assets$292f$catherine$2d$fabrici$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/app/(assets)/catherine-fabrici.png.mjs { IMAGE => "[project]/src/app/(assets)/catherine-fabrici.png (static in ecmascript)" } [app-rsc] (structured image object with data url, ecmascript)'); // Add your profile image
 ;
-// import profileImage from '../(assets)/catherine-profile.jpg'; // Add your profile image
+;
+;
 const QuiJeSuisPage = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "min-h-screen pt-16 bg-gradient-to-b from-gray-50 to-white",
@@ -36,22 +60,34 @@ const QuiJeSuisPage = ()=>{
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "w-64 h-64 rounded-full overflow-hidden border-8 border-white/20 shadow-2xl backdrop-blur-sm",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "w-full h-full bg-white/10 flex items-center justify-center",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-6xl",
-                                                children: "👩‍⚕️"
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "w-full h-full bg-white/10 flex items-center justify-center",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "text-6xl",
+                                                    children: "👩‍⚕️"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/app/qui-je-suis/page.tsx",
+                                                    lineNumber: 17,
+                                                    columnNumber: 19
+                                                }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 17,
-                                                columnNumber: 19
+                                                lineNumber: 16,
+                                                columnNumber: 17
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f28$assets$292f$catherine$2d$fabrici$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$app$2f28$assets$292f$catherine$2d$fabrici$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                                alt: "Catherine Fabrici - Sophrologue",
+                                                fill: true,
+                                                className: "object-cover"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/qui-je-suis/page.tsx",
+                                                lineNumber: 19,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
-                                        }, void 0, false, {
-                                            fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                            lineNumber: 16,
-                                            columnNumber: 17
-                                        }, ("TURBOPACK compile-time value", void 0))
-                                    }, void 0, false, {
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
                                         lineNumber: 14,
                                         columnNumber: 15
@@ -61,7 +97,7 @@ const QuiJeSuisPage = ()=>{
                                         children: "Sophrologue Certifiée"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 29,
+                                        lineNumber: 28,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
@@ -78,7 +114,7 @@ const QuiJeSuisPage = ()=>{
                                         children: "Qui je suis ?"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 35,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -86,7 +122,7 @@ const QuiJeSuisPage = ()=>{
                                         children: "De l'enseignement à la sophrologie, un parcours guidé par la passion d'accompagner et de transmettre."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 39,
+                                        lineNumber: 38,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -97,7 +133,7 @@ const QuiJeSuisPage = ()=>{
                                                 children: "Ancienne Enseignante"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 43,
+                                                lineNumber: 42,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -105,7 +141,7 @@ const QuiJeSuisPage = ()=>{
                                                 children: "Centre Evolution Formation"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 46,
+                                                lineNumber: 45,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -113,19 +149,19 @@ const QuiJeSuisPage = ()=>{
                                                 children: "Société Française de Sophrologie"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 49,
+                                                lineNumber: 48,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 42,
+                                        lineNumber: 41,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 35,
+                                lineNumber: 34,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
@@ -160,12 +196,12 @@ const QuiJeSuisPage = ()=>{
                                             children: "📚"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                            lineNumber: 65,
+                                            lineNumber: 64,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 64,
+                                        lineNumber: 63,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -173,13 +209,13 @@ const QuiJeSuisPage = ()=>{
                                         children: "Mon parcours d'enseignante"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 67,
+                                        lineNumber: 66,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 63,
+                                lineNumber: 62,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -194,14 +230,14 @@ const QuiJeSuisPage = ()=>{
                                                 children: "enseignante"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 72,
+                                                lineNumber: 71,
                                                 columnNumber: 24
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             " : un métier merveilleux où, au fil des ans, j'ai pu aider des centaines d'enfants à acquérir leur autonomie et à prendre leur envol. J'ai ainsi pu développer auprès de plusieurs générations d'écoliers ma faculté à transmettre les savoirs, ma capacité à aider l'autre à apprendre, connaître, ressentir et analyser."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 71,
+                                        lineNumber: 70,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -213,7 +249,7 @@ const QuiJeSuisPage = ()=>{
                                                 children: "compétences pédagogiques"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 75,
+                                                lineNumber: 74,
                                                 columnNumber: 25
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             " pour aider les enfants à trouver et exploiter le meilleur d'eux-même... Enseigner aux petits et aux plus grands m'a également appris à cultiver ",
@@ -222,26 +258,26 @@ const QuiJeSuisPage = ()=>{
                                                 children: "patience, bienveillance et humilité"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 75,
+                                                lineNumber: 74,
                                                 columnNumber: 238
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 74,
+                                        lineNumber: 73,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 70,
+                                lineNumber: 69,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                        lineNumber: 62,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -257,12 +293,12 @@ const QuiJeSuisPage = ()=>{
                                             children: "🔄"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                            lineNumber: 84,
+                                            lineNumber: 83,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 83,
+                                        lineNumber: 82,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -270,13 +306,13 @@ const QuiJeSuisPage = ()=>{
                                         children: "La découverte de la sophrologie"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 86,
+                                        lineNumber: 85,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 82,
+                                lineNumber: 81,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -291,14 +327,14 @@ const QuiJeSuisPage = ()=>{
                                                 children: "sophrologie"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 91,
+                                                lineNumber: 90,
                                                 columnNumber: 184
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             ", une discipline qui m'a aidée à me reconnecter avec moi-même, à prendre conscience de l'urgence de prendre soin de moi."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 90,
+                                        lineNumber: 89,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("blockquote", {
@@ -308,12 +344,12 @@ const QuiJeSuisPage = ()=>{
                                             children: '"Prends soin de toi et apprends aux autres à prendre soin d\'eux."'
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                            lineNumber: 95,
+                                            lineNumber: 94,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 94,
+                                        lineNumber: 93,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -325,26 +361,26 @@ const QuiJeSuisPage = ()=>{
                                                 children: "apprentissage dynamique du bien-être"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 101,
+                                                lineNumber: 100,
                                                 columnNumber: 177
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 100,
+                                        lineNumber: 99,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 89,
+                                lineNumber: 88,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                        lineNumber: 81,
+                        lineNumber: 80,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -360,12 +396,12 @@ const QuiJeSuisPage = ()=>{
                                             children: "🌱"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                            lineNumber: 110,
+                                            lineNumber: 109,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 109,
+                                        lineNumber: 108,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -373,13 +409,13 @@ const QuiJeSuisPage = ()=>{
                                         children: "Ma nouvelle vocation"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 112,
+                                        lineNumber: 111,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 108,
+                                lineNumber: 107,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -394,14 +430,14 @@ const QuiJeSuisPage = ()=>{
                                                 children: "sophrologue"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 117,
+                                                lineNumber: 116,
                                                 columnNumber: 154
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 116,
+                                        lineNumber: 115,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -418,14 +454,14 @@ const QuiJeSuisPage = ()=>{
                                                                 children: "🎓"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                                lineNumber: 124,
+                                                                lineNumber: 123,
                                                                 columnNumber: 19
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             "Formation"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                        lineNumber: 123,
+                                                        lineNumber: 122,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -436,20 +472,20 @@ const QuiJeSuisPage = ()=>{
                                                                 children: "Centre Evolution Formation"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                                lineNumber: 128,
+                                                                lineNumber: 127,
                                                                 columnNumber: 39
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             " (Montereau)."
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                        lineNumber: 127,
+                                                        lineNumber: 126,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 122,
+                                                lineNumber: 121,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -463,14 +499,14 @@ const QuiJeSuisPage = ()=>{
                                                                 children: "🏛️"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                                lineNumber: 134,
+                                                                lineNumber: 133,
                                                                 columnNumber: 19
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             "Appartenance Professionnelle"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                        lineNumber: 133,
+                                                        lineNumber: 132,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -481,38 +517,38 @@ const QuiJeSuisPage = ()=>{
                                                                 children: "Société Française de Sophrologie"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                                lineNumber: 138,
+                                                                lineNumber: 137,
                                                                 columnNumber: 32
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             ", je respecte le code de déontologie de la profession qui vous assure confidentialité et intégrité."
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                        lineNumber: 137,
+                                                        lineNumber: 136,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                                lineNumber: 132,
+                                                lineNumber: 131,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 121,
+                                        lineNumber: 120,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 115,
+                                lineNumber: 114,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                        lineNumber: 107,
+                        lineNumber: 106,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -523,7 +559,7 @@ const QuiJeSuisPage = ()=>{
                                 children: "Vous ressentez le besoin d'améliorer votre quotidien ?"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 147,
+                                lineNumber: 146,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -534,14 +570,14 @@ const QuiJeSuisPage = ()=>{
                                         children: "accompagnement personnalisé en sophrologie"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 152,
+                                        lineNumber: 151,
                                         columnNumber: 32
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     " afin de créer un nouvel état de bien-être mental et corporel."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 150,
+                                lineNumber: 149,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -553,7 +589,7 @@ const QuiJeSuisPage = ()=>{
                                         children: "Contactez-moi pour prendre rendez-vous"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 156,
+                                        lineNumber: 155,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -562,25 +598,25 @@ const QuiJeSuisPage = ()=>{
                                         children: "Voir les tarifs"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                        lineNumber: 159,
+                                        lineNumber: 158,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                                lineNumber: 155,
+                                lineNumber: 154,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                        lineNumber: 146,
+                        lineNumber: 145,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/qui-je-suis/page.tsx",
-                lineNumber: 59,
+                lineNumber: 58,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -604,4 +640,4 @@ module.exports = mod;
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__7466a46a._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__2cc26c1b._.js.map
