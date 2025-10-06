@@ -1,20 +1,25 @@
 import React from 'react';
+import profileImage from '../(assets)/catherine-fabrici.png';
+
+// Import components
+import ProfileHeroSection from './(components)/ProfileHeroSection';
+import TeachingBackgroundSection from './(components)/TeachingBackgroundSection';
+import SophrologyDiscoverySection from './(components)/SophrologyDiscoverySection';
+import ProfessionalTransitionSection from './(components)/ProfessionalTransitionSection';
+import CallToActionSection from './(components)/CallToActionSection';
 
 const QuiJeSuisPage = () => {
   return (
-    <div className="min-h-screen pt-16 px-4">
-      <div className="max-w-4xl mx-auto py-8">
-        <h1 className="text-4xl font-bold mb-8 text-center">Qui je suis</h1>
-        <div className="prose prose-lg mx-auto">
-          <p className="text-lg mb-6">
-            Bienvenue sur ma page de présentation. Je suis passionnée par la sophrologie 
-            et j'accompagne mes clients dans leur développement personnel.
-          </p>
-          <p className="text-lg mb-6">
-            Mon parcours et mon approche personnalisée me permettent de vous offrir 
-            un suivi adapté à vos besoins spécifiques.
-          </p>
-        </div>
+    <div className="min-h-screen pt-16 bg-gradient-to-b from-gray-50 to-white">
+      {/* Hero Section with Profile */}
+      <ProfileHeroSection profileImage={profileImage} />
+
+      {/* Main Content */}
+      <div className="max-w-4xl mx-auto px-4 py-16">
+        <TeachingBackgroundSection />
+        <SophrologyDiscoverySection />
+        <ProfessionalTransitionSection />
+        <CallToActionSection />
       </div>
     </div>
   );
