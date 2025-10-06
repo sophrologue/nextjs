@@ -10,15 +10,13 @@ __turbopack_context__.n(__turbopack_context__.i("[project]/src/app/favicon.ico.m
 
 __turbopack_context__.n(__turbopack_context__.i("[project]/src/app/layout.tsx [app-rsc] (ecmascript)"));
 }),
-"[project]/src/app/avis/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"[project]/src/app/avis/reviews.ts [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
 __turbopack_context__.s([
-    "default",
-    ()=>__TURBOPACK__default__export__
+    "reviews",
+    ()=>reviews
 ]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
-;
 const reviews = [
     {
         id: 1,
@@ -200,17 +198,38 @@ const reviews = [
         name: "Béatrice Corsat",
         date: "06.2024",
         rating: "5/5",
-        comment: "Personne de confiance qui est à l’écoute. Elle m’a beaucoup aidé à surmonter d’anciens souvenirs d’enfance et à accepter sans angoisse les tracas du quotidien. Elle m’a permis de mieux  géré mon stress grâce a la sophrologie . Je recommande vivement cette belle personne."
+        comment: "Personne de confiance qui est à l’écoute. Elle m’a beaucoup aidé à surmonter d’anciens souvenirs d’enfance et à gérer mon stress grâce à la sophrologie. Je recommande vivement cette belle personne."
     }
 ];
-// Helper to get average rating
+}),
+"[project]/src/app/avis/helpers.ts [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "getAverageRating",
+    ()=>getAverageRating
+]);
 function getAverageRating(reviews) {
     const ratings = reviews.map((r)=>parseInt(r.rating.split('/')[0], 10)).filter((n)=>!isNaN(n));
     const avg = ratings.reduce((a, b)=>a + b, 0) / ratings.length;
     return avg.toFixed(1);
 }
+}),
+"[project]/src/app/avis/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$reviews$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/avis/reviews.ts [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$helpers$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/avis/helpers.ts [app-rsc] (ecmascript)");
+;
+;
+;
 const AvisPage = ()=>{
-    const average = getAverageRating(reviews);
+    const average = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$helpers$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["getAverageRating"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$reviews$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["reviews"]);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "min-h-screen pt-16 px-4 bg-gradient-to-b from-[#f8fafc] to-white",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -224,7 +243,7 @@ const AvisPage = ()=>{
                             children: "Avis Clients"
                         }, void 0, false, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 229,
+                            lineNumber: 13,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -233,7 +252,7 @@ const AvisPage = ()=>{
                                 "Catherine Fabrici, Sophrologue",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 231,
+                                    lineNumber: 15,
                                     columnNumber: 43
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -241,13 +260,13 @@ const AvisPage = ()=>{
                                     children: "6 Rue de la Martillière, Le Malesherbois, France"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 232,
+                                    lineNumber: 16,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 230,
+                            lineNumber: 14,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -262,53 +281,53 @@ const AvisPage = ()=>{
                                             children: "★"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/avis/page.tsx",
-                                            lineNumber: 237,
+                                            lineNumber: 21,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 235,
+                                    lineNumber: 19,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-gray-700 font-medium",
                                     children: [
                                         "(",
-                                        reviews.length,
+                                        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$reviews$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["reviews"].length,
                                         " avis)"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 239,
+                                    lineNumber: 23,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "https://www.google.com/search?sxsrf=AM9HkKk1Po2jNOC2QoCiIuUS-7aOCwuwjQ:1701869282346&q=Catherine+Fabrici+sophrologue+Wellness+program+in+Le+Malesherbois,+France&si=ALGXSlZxBBDAx2AHKeMOj5-1VEN5S7cHqdh2fch2yZlxm0ucj7afXmqTJ_wFZr4uQtZZVIdqWucuMF3kP0u29S_WMkJxm16wPfInmczCBzxQQwAX3IedcKgZzuuRWwjmaXsHuZUigyfLLOqfBZVtXlEBVJhkVlrhzinJYcTGt216ZjsjQZfCJV7TLifbO2uW5zyahNxv4fIVNHHJJK1UvP0h7gMUF0rGCqLcaqUVI0LcFaE9fotnng75kWNsAOg5duXLIfAL_ICy9x9pLVSf5EHqVHgb24sIIocv15DYXF1cEtlrm3lPXKw%3D#lrd=0x47e595fc0f090e9b:0x40983a268fe4ed9d,1,,,,",
+                                    href: "https://www.google.com/search?q=Catherine+Fabrici+Sophrologue+Le+Malesherbois",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "ml-2 text-blue-600 hover:underline text-sm font-semibold",
                                     children: "Écrire un avis sur Google"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 240,
+                                    lineNumber: 24,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 234,
+                            lineNumber: 18,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/avis/page.tsx",
-                    lineNumber: 228,
+                    lineNumber: 12,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "space-y-6",
-                    children: reviews.map((a)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$reviews$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["reviews"].map((a)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "bg-white p-6 rounded-xl shadow-md border-l-4 border-[#007562]",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -323,13 +342,13 @@ const AvisPage = ()=>{
                                                     children: '★'.repeat(5 - parseInt(a.rating))
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/avis/page.tsx",
-                                                    lineNumber: 257,
+                                                    lineNumber: 41,
                                                     columnNumber: 51
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/avis/page.tsx",
-                                            lineNumber: 256,
+                                            lineNumber: 40,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -337,7 +356,7 @@ const AvisPage = ()=>{
                                             children: a.name
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/avis/page.tsx",
-                                            lineNumber: 259,
+                                            lineNumber: 43,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -345,13 +364,13 @@ const AvisPage = ()=>{
                                             children: a.date
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/avis/page.tsx",
-                                            lineNumber: 260,
+                                            lineNumber: 44,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 255,
+                                    lineNumber: 39,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 a.comment && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -359,18 +378,18 @@ const AvisPage = ()=>{
                                     children: a.comment
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 263,
+                                    lineNumber: 47,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, a.id, true, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 254,
+                            lineNumber: 38,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/src/app/avis/page.tsx",
-                    lineNumber: 252,
+                    lineNumber: 36,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -381,7 +400,7 @@ const AvisPage = ()=>{
                             children: "Vous souhaitez partager votre expérience ?"
                         }, void 0, false, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 271,
+                            lineNumber: 55,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -392,7 +411,7 @@ const AvisPage = ()=>{
                             children: "Laisser un avis sur Google"
                         }, void 0, false, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 274,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -405,31 +424,31 @@ const AvisPage = ()=>{
                                     children: "contactez-moi"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/avis/page.tsx",
-                                    lineNumber: 283,
+                                    lineNumber: 67,
                                     columnNumber: 16
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 " directement."
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/avis/page.tsx",
-                            lineNumber: 282,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/avis/page.tsx",
-                    lineNumber: 270,
+                    lineNumber: 54,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/avis/page.tsx",
-            lineNumber: 226,
+            lineNumber: 10,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/src/app/avis/page.tsx",
-        lineNumber: 225,
+        lineNumber: 9,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -447,4 +466,4 @@ module.exports = mod;
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__932448c3._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__9c1586d8._.js.map
