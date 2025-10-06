@@ -2,37 +2,72 @@ import React from 'react';
 
 const SophrologieEtDouleurPage = () => {
   return (
-    <div className="min-h-screen pt-16 px-4">
-      <div className="max-w-4xl mx-auto py-8">
-        <h1 className="text-4xl font-bold mb-8 text-center">Sophrologie et Douleur</h1>
-        <div className="prose prose-lg mx-auto">
-          <p className="text-lg mb-6">
-            La sophrologie offre des techniques efficaces pour accompagner la gestion de la douleur 
-            chronique et aiguë, en complément des traitements médicaux traditionnels.
-          </p>
-          
-          <h2 className="text-2xl font-semibold mb-4">Comment la sophrologie aide-t-elle ?</h2>
-          <ul className="list-disc list-inside mb-6 space-y-2">
-            <li>Relaxation profonde pour diminuer les tensions musculaires</li>
-            <li>Techniques de respiration pour gérer les pics de douleur</li>
-            <li>Visualisation positive pour modifier la perception de la douleur</li>
-            <li>Renforcement des ressources personnelles</li>
-            <li>Amélioration de la qualité du sommeil</li>
-          </ul>
-          
-          <h2 className="text-2xl font-semibold mb-4">Types de douleurs accompagnées</h2>
-          <ul className="list-disc list-inside mb-6 space-y-2">
-            <li>Douleurs chroniques (fibromyalgie, arthrose, etc.)</li>
-            <li>Migraines et céphalées</li>
-            <li>Douleurs post-opératoires</li>
-            <li>Douleurs liées au stress</li>
-            <li>Douleurs neuropathiques</li>
-          </ul>
-          
-          <p className="text-lg bg-blue-50 p-4 rounded-lg">
-            La sophrologie ne remplace pas un traitement médical mais constitue 
-            un accompagnement précieux dans la gestion globale de la douleur.
-          </p>
+    <div className="min-h-screen pt-16 px-4 bg-white">
+      <div className="max-w-4xl mx-auto py-10">
+        <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight">
+          Sophrologie et Douleur
+        </h1>
+        <div className="space-y-8">
+          {/* Context */}
+          <div className="bg-white rounded-2xl shadow p-6">
+            <p className="text-lg mb-4">
+              La sophrologie aide les malades à remettre du confort de vie dans leur quotidien, à apprendre à repérer et anticiper la douleur, à atténuer les souffrances physiques et mentales.
+            </p>
+            <p className="text-lg mb-4">
+              On apprend à remettre du calme dans le corps, de la détente, un sentiment positif. On travaille sur le système nerveux pour retrouver un mieux-être global.
+            </p>
+            <p className="text-lg">
+              Le sophrologue accompagne le malade pour mieux gérer sa douleur : douleurs aiguës, douleurs chroniques, fibromyalgie, endométriose...
+            </p>
+          </div>
+
+          {/* Comment la sophrologie aide-t-elle ? */}
+          <div className="bg-white rounded-2xl shadow p-6">
+            <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Comment la sophrologie aide-t-elle ?</h2>
+            <ul className="list-disc list-inside space-y-2 text-gray-700">
+              <li>Relaxation profonde pour diminuer les tensions musculaires</li>
+              <li>Techniques de respiration pour gérer les pics de douleur</li>
+              <li>Visualisation positive pour modifier la perception de la douleur</li>
+              <li>Renforcement des ressources personnelles</li>
+              <li>Amélioration de la qualité du sommeil</li>
+            </ul>
+          </div>
+
+          {/* Types de douleurs accompagnées */}
+          <div className="bg-white rounded-2xl shadow p-6">
+            <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Types de douleurs accompagnées</h2>
+            <ul className="list-disc list-inside space-y-2 text-gray-700">
+              <li>Douleurs chroniques (fibromyalgie, arthrose, endométriose, etc.)</li>
+              <li>Migraines et céphalées</li>
+              <li>Douleurs post-opératoires</li>
+              <li>Douleurs liées au stress</li>
+              <li>Douleurs neuropathiques</li>
+            </ul>
+          </div>
+
+          {/* Déroulement d'une séance */}
+          <div className="bg-white rounded-2xl shadow p-6">
+            <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Comment se déroule une séance ?</h2>
+            <ul className="list-disc list-inside space-y-2 text-gray-700">
+              <li>
+                <span className="font-semibold">Entretien initial :</span> environ 1h à 1h30 pour définir l'objectif de votre accompagnement.
+              </li>
+              <li>
+                <span className="font-semibold">Séances hebdomadaires :</span> d'une durée d'environ 1h, adaptées à vos besoins.
+              </li>
+              <li>
+                <span className="font-semibold">Dialogue et orientation pédagogique :</span> chaque séance se termine par un échange pour ajuster l'accompagnement.
+              </li>
+              <li>
+                <span className="font-semibold">Pratique quotidienne :</span> pour profiter pleinement des bénéfices de la sophrologie.
+              </li>
+            </ul>
+          </div>
+
+          {/* Medical disclaimer */}
+          <div className="bg-blue-50 border-l-4 border-blue-300 p-4 rounded-lg text-gray-700">
+            <strong>Important :</strong> La sophrologie ne remplace pas un traitement médical mais constitue un accompagnement précieux dans la gestion globale de la douleur.
+          </div>
         </div>
       </div>
     </div>
