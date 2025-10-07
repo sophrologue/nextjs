@@ -12,8 +12,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Catherine Fabrici",
-  description: "Sophrologie à Le Malesherbois",
+  title: "",
+  description: "",
 };
 
 export default function RootLayout({

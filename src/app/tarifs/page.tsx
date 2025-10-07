@@ -16,13 +16,12 @@ const TarifsPage = () => {
           <li>
             Séance individuelle adulte : 60€ (1h)
           </li>
-          <li>
-            Séance individuelle enfant/adolescent : 50€ (45 min)
-          </li>
+        
           <li>
             Séance d&apos;hypnose humaniste : 70€ (1h15)
           </li>
         </ul>
+        <br />
 
         <div className="grid md:grid-cols-2 gap-8">
           {/* Enfant / Adolescent jusqu'à 12 ans */}

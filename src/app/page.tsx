@@ -9,17 +9,25 @@ import profileImage from "./(assets)/main_bg.png"; // Adjust path to your actual
 export default function Home() {
   return (
     <>
-      <HomePageLayout
-        backgroundImage={profileImage}
-      >
-       
-    
-        <HeroSection />
-        <ProfessionalProfile />
-        <CallToActionBar />
-      </HomePageLayout>
+      <main role="main" lang="fr" aria-label="Page d'accueil - Catherine Fabrici Sophrologue">
+        <HomePageLayout backgroundImage={profileImage}>
+          <section aria-label="Section héro - Présentation principale">
+            <HeroSection />
+          </section>
+          
+          <aside aria-label="Profil professionnel de Catherine Fabrici" role="complementary">
+            <ProfessionalProfile />
+          </aside>
+          
+          <section aria-label="Appel à l'action - Prendre rendez-vous">
+            <CallToActionBar />
+          </section>
+        </HomePageLayout>
 
-      <ServicesSection />
+        <section aria-label="Services de sophrologie proposés" id="services">
+          <ServicesSection />
+        </section>
+      </main>
     </>
   );
 }
