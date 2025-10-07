@@ -16,7 +16,7 @@ const ServicesSection = () => {
             <ul className="space-y-2 text-gray-700">
               <li className="flex items-start gap-2">
                 <span className="text-[#005649] text-lg">•</span>
-                <span>Gestion du stress, de l'anxiété, des émotions</span>
+                <span>Gestion du stress, de l&apos;anxiété, des émotions</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#005649] text-lg">•</span>

@@ -12,8 +12,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "",
-  description: "",
+  title: "Catherine Fabrici Sophrologue",
+  description: "sophrologue RNCP Spécialiste de sophrologie ludique enfant/ adolescent sophrologie adultes et entreprise pour pour sommeil, angoisse, peur, stress , burn out , QVT sophrologie et cancer",
 };
 
 export default function RootLayout({

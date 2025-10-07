@@ -74,7 +74,7 @@ const ContactPage = () => {
             Ateliers pour groupes de 5 à 6 personnes sur un thème choisi.<br />
             Déplacement possible à domicile pour personnes âgées, handicapées, invalides.<br />
             Téléconsultations et séances en visio (Skype, Zoom, Discord) disponibles.<br />
-            Appelez-moi pour plus d'informations !
+            Appelez-moi pour plus d&apos;informations !
           </p>
           <span className="text-gray-500 text-sm">
             Je m&apos;engage à vous répondre dans les plus brefs délais.

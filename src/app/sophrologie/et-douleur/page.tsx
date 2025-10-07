@@ -12,7 +12,7 @@ const SophrologieEtDouleurPage = () => {
         </div>
         <div className="max-w-3xl mx-auto px-4 py-8">
           <p className="text-lg text-gray-700 mb-6">
-            La sophrologie aide à mieux vivre avec la douleur chronique et à retrouver de l'autonomie au quotidien.
+            La sophrologie aide à mieux vivre avec la douleur chronique et à retrouver de l&apos;autonomie au quotidien.
           </p>
         </div>
         <div className="space-y-8">
@@ -58,13 +58,13 @@ const SophrologieEtDouleurPage = () => {
             <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Comment se déroule une séance ?</h2>
             <ul className="list-disc list-inside space-y-2 text-gray-700">
               <li>
-                <span className="font-semibold">Entretien initial :</span> environ 1h à 1h30 pour définir l'objectif de votre accompagnement.
+                <span className="font-semibold">Entretien initial :</span> environ 1h à 1h30 pour définir l&apos;objectif de votre accompagnement.
               </li>
               <li>
-                <span className="font-semibold">Séances hebdomadaires :</span> d'une durée d'environ 1h, adaptées à vos besoins.
+                <span className="font-semibold">Séances hebdomadaires :</span> d&apos;une durée d&apos;environ 1h, adaptées à vos besoins.
               </li>
               <li>
-                <span className="font-semibold">Dialogue et orientation pédagogique :</span> chaque séance se termine par un échange pour ajuster l'accompagnement.
+                <span className="font-semibold">Dialogue et orientation pédagogique :</span> chaque séance se termine par un échange pour ajuster l&apos;accompagnement.
               </li>
               <li>
                 <span className="font-semibold">Pratique quotidienne :</span> pour profiter pleinement des bénéfices de la sophrologie.

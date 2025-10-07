@@ -27,7 +27,7 @@ const TarifsPage = () => {
           {/* Enfant / Adolescent jusqu'à 12 ans */}
           <div className="bg-white rounded-xl shadow-md p-6 border-l-4 border-[#005649] flex flex-col justify-between">
             <div>
-              <h3 className="text-xl font-semibold mb-2">Enfant / Adolescent jusqu'à 12 ans</h3>
+              <h3 className="text-xl font-semibold mb-2">Enfant / Adolescent jusqu&apos;à 12 ans</h3>
               <p className="text-gray-700 mb-2">Séance de 30 à 40 minutes</p>
             </div>
             <div className="text-2xl font-bold text-[#005649] mt-2">50&nbsp;€</div>
@@ -36,7 +36,7 @@ const TarifsPage = () => {
           <div className="bg-white rounded-xl shadow-md p-6 border-l-4 border-[#005649] flex flex-col justify-between">
             <div>
               <h3 className="text-xl font-semibold mb-2">Adolescent 13 à 17 ans</h3>
-              <p className="text-gray-700 mb-2">Séance d'1h</p>
+              <p className="text-gray-700 mb-2">Séance d&apos;1h</p>
             </div>
             <div className="text-2xl font-bold text-[#005649] mt-2">55&nbsp;€</div>
           </div>
@@ -44,7 +44,7 @@ const TarifsPage = () => {
           <div className="bg-white rounded-xl shadow-md p-6 border-l-4 border-[#005649] flex flex-col justify-between">
             <div>
               <h3 className="text-xl font-semibold mb-2">Adultes</h3>
-              <p className="text-gray-700 mb-2">Séance d'1h</p>
+              <p className="text-gray-700 mb-2">Séance d&apos;1h</p>
             </div>
             <div className="text-2xl font-bold text-[#005649] mt-2">55&nbsp;€</div>
           </div>
@@ -66,7 +66,7 @@ const TarifsPage = () => {
               <p className="text-gray-700 mb-2">
                 70&nbsp;€ la séance<br />
                 <span className="text-sm text-gray-500">2 séances à prévoir au minimum</span><br />
-                <span className="text-sm text-gray-500">Dans le cadre d'un programme combiné, la séance est à 60&nbsp;€</span>
+                <span className="text-sm text-gray-500">Dans le cadre d&apos;un programme combiné, la séance est à 60&nbsp;€</span>
               </p>
             </div>
             <div className="text-2xl font-bold text-[#005649] bg-white/80 px-8 py-4 rounded-xl shadow-md">

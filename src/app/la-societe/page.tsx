@@ -8,7 +8,7 @@ const LaSocietePage = () => {
           La Société
         </h1>
         <p className="text-lg text-gray-700 mb-6">
-          La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&rsquo;amélioration de la qualité de vie, la gestion du stress et l&rsquo;épanouissement personnel et professionnel.
+          La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
         </p>
         <div className="space-y-8">
           {/* Mission */}
@@ -21,13 +21,13 @@ const LaSocietePage = () => {
             <div>
               <h2 className="text-2xl font-semibold mb-2 text-[#007562]">Notre Mission</h2>
               <p className="text-lg text-gray-700 mb-6">
-                La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&rsquo;amélioration de la qualité de vie, la gestion du stress et l&rsquo;épanouissement personnel et professionnel.
+                La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
               </p>
               <p className="text-base text-gray-600 mb-4">
-                Forte d&rsquo;une expérience de plus de 10 ans dans l&rsquo;accompagnement, je propose des séances individuelles, des ateliers collectifs et des interventions en entreprise adaptées à vos besoins.
+                Forte d&apos;une expérience de plus de 10 ans dans l&apos;accompagnement, je propose des séances individuelles, des ateliers collectifs et des interventions en entreprise adaptées à vos besoins.
               </p>
               <p className="text-base text-gray-600 mb-8">
-                N&rsquo;hésitez pas à me contacter pour toute demande d&rsquo;information ou de devis.
+                N&apos;hésitez pas à me contacter pour toute demande d&apos;information ou de devis.
               </p>
             </div>
           </div>
@@ -41,7 +41,7 @@ const LaSocietePage = () => {
             <div>
               <h2 className="text-2xl font-semibold mb-2 text-[#005649]">Nos Valeurs</h2>
               <ul className="list-disc list-inside space-y-2 text-gray-700">
-                <li><strong>Bienveillance :</strong> Accompagnement dans le respect et l&rsquo;écoute</li>
+                <li><strong>Bienveillance :</strong> Accompagnement dans le respect et l&apos;écoute</li>
                 <li><strong>Professionnalisme :</strong> Formation continue et méthodes éprouvées</li>
                 <li><strong>Personnalisation :</strong> Approche adaptée à chaque individu</li>
                 <li><strong>Confidentialité :</strong> Respect absolu de votre intimité</li>
@@ -59,7 +59,7 @@ const LaSocietePage = () => {
               <h2 className="text-2xl font-semibold mb-2 text-[#007562]">Notre Approche</h2>
               <p className="text-lg text-gray-700">
                 Nous proposons un accompagnement holistique qui prend en compte la personne 
-                dans sa globalité. Notre méthode s'appuie sur les principes fondamentaux 
+                dans sa globalité. Notre méthode s&apos;appuie sur les principes fondamentaux 
                 de la sophrologie pour vous aider à développer vos ressources intérieures 
                 et atteindre vos objectifs de bien-être.
               </p>
@@ -75,11 +75,11 @@ const LaSocietePage = () => {
             <div>
               <h2 className="text-2xl font-semibold mb-2 text-[#005649]">Litige – Médiation de la consommation</h2>
               <p className="mb-3 text-gray-700">
-                En cas de litige entre le Client et l&rsquo;entreprise, ceux-ci s&rsquo;efforceront de le résoudre à l&rsquo;amiable.<br />
+                En cas de litige entre le Client et l&apos;entreprise, ceux-ci s&apos;efforceront de le résoudre à l&apos;amiable.<br />
                 (Le Client adressera une réclamation écrite auprès du professionnel ou, le cas échéant, auprès du Service Relations Clientèle du professionnel).
               </p>
               <p className="mb-3 text-gray-700">
-                À défaut d&rsquo;accord amiable ou en l&rsquo;absence de réponse du professionnel dans un délai raisonnable d&rsquo;un (1) mois, le Client consommateur au sens de l&rsquo;article L.133-4 du code de la consommation a la possibilité de saisir gratuitement, si un désaccord subsiste, le médiateur compétent inscrit sur la liste des médiateurs établie par la Commission d&rsquo;évaluation et de contrôle de la médiation de la consommation en application de l&rsquo;article L.615-1 du code de la consommation, à savoir :
+                À défaut d&apos;accord amiable ou en l&apos;absence de réponse du professionnel dans un délai raisonnable d&apos;un (1) mois, le Client consommateur au sens de l&apos;article L.133-4 du code de la consommation a la possibilité de saisir gratuitement, si un désaccord subsiste, le médiateur compétent inscrit sur la liste des médiateurs établie par la Commission d&apos;évaluation et de contrôle de la médiation de la consommation en application de l&apos;article L.615-1 du code de la consommation, à savoir :
               </p>
               <div className="bg-white border border-[#007562] rounded p-4 mb-2">
                 <strong>La Société Médiation Professionnelle</strong>
@@ -107,7 +107,7 @@ const LaSocietePage = () => {
               <span className="font-semibold">SIRET :</span> 888 888 888 00018 (Entreprise individuelle)
             </li>
             <li className="mb-2">
-              <span className="font-semibold">Adresse :</span> 12 rue de l&rsquo;Exemple, 75000 Paris
+              <span className="font-semibold">Adresse :</span> 12 rue de l&apos;Exemple, 75000 Paris
             </li>
             <li className="mb-2">
               <span className="font-semibold">Email :</span> contact@catherinefabrici.fr

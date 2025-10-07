@@ -1,6 +1,4 @@
-import Image from 'next/image';
 import SocialLinks from './SocialLinks';
-import profileImage from "../../(assets)/catherine-fabrici.png"
 
 export default function ProfessionalProfile() {
   return (

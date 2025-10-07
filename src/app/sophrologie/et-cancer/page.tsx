@@ -11,7 +11,7 @@ const SophrologieEtCancerPage = () => {
           {/* Introduction */}
           <div className="bg-white rounded-2xl shadow p-6">
             <p className="text-lg mb-4">
-              Parce que <span className="font-semibold text-[#007562]">350.000 personnes</span> apprennent chaque année qu'elles souffrent d'un cancer, la sophrologie peut aider et offre un accompagnement dans le parcours des soins de support pour les malades.
+              Parce que <span className="font-semibold text-[#007562]">350.000 personnes</span> apprennent chaque année qu&apos;elles souffrent d&apos;un cancer, la sophrologie peut aider et offre un accompagnement dans le parcours des soins de support pour les malades.
             </p>
             <p className="text-lg mb-4">
               <span className="font-semibold">En aucun cas la sophrologie ne guérit le cancer, elle ne se substitue pas au protocole de soin, ni aux traitements médicaux.</span>
@@ -34,12 +34,12 @@ const SophrologieEtCancerPage = () => {
               Les personnes souffrant de cancer appréhendent les traitements (chimiothérapie, radiothérapie), les effets secondaires très perturbants et envahissants ont des répercussions sur leur vie quotidienne.
             </p>
             <p className="text-lg mb-4">
-              La sophrologie, par des exercices à base de respiration, de mouvements et d’images mentales, va permettre de remettre du mieux-être dans son quotidien, d’évacuer les angoisses, le stress, de diminuer les douleurs que génèrent les traitements.
+              La sophrologie, par des exercices à base de respiration, de mouvements et d&apos;images mentales, va permettre de remettre du mieux-être dans son quotidien, d&apos;évacuer les angoisses, le stress, de diminuer les douleurs que génèrent les traitements.
             </p>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
-              <li>Diminuer la fatigue : on fait le plein d’énergie, on optimise et on valorise les traitements qui deviennent des alliés contre la maladie.</li>
+              <li>Diminuer la fatigue : on fait le plein d&apos;énergie, on optimise et on valorise les traitements qui deviennent des alliés contre la maladie.</li>
               <li>Améliorer la qualité du sommeil et la récupération.</li>
-              <li>Maintenir un état d’esprit positif.</li>
+              <li>Maintenir un état d&apos;esprit positif.</li>
             </ul>
           </div>
 
@@ -47,10 +47,10 @@ const SophrologieEtCancerPage = () => {
           <div className="bg-white rounded-2xl shadow p-6">
             <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Renforcer sa combativité</h2>
             <p className="text-lg mb-4">
-              Les traitements du cancer sont longs. Si, au début, les malades sont motivés, au fil des mois, des années, l’observance des traitements diminue. La sophrologie aide aussi à retrouver une détermination pour lutter contre la maladie.
+              Les traitements du cancer sont longs. Si, au début, les malades sont motivés, au fil des mois, des années, l&apos;observance des traitements diminue. La sophrologie aide aussi à retrouver une détermination pour lutter contre la maladie.
             </p>
             <p className="text-lg">
-              Un travail sur la restauration de l’image de soi peut aussi être fait en sophrologie. Il s’agit d’un accompagnement en fonction des besoins de la personne et adapté à sa maladie.
+              Un travail sur la restauration de l&apos;image de soi peut aussi être fait en sophrologie. Il s&apos;agit d&apos;un accompagnement en fonction des besoins de la personne et adapté à sa maladie.
             </p>
           </div>
 
@@ -58,7 +58,7 @@ const SophrologieEtCancerPage = () => {
           <div className="bg-white rounded-2xl shadow p-6">
             <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Soutien pour les proches</h2>
             <p className="text-lg">
-              L'accompagnement sophrologique s'étend également aux proches et aidants, les aidant à gérer leur stress et leurs émotions face à la maladie.
+              L&apos;accompagnement sophrologique s&apos;étend également aux proches et aidants, les aidant à gérer leur stress et leurs émotions face à la maladie.
             </p>
           </div>
 
@@ -66,10 +66,10 @@ const SophrologieEtCancerPage = () => {
           <div className="bg-white rounded-2xl shadow p-6">
             <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Après la maladie</h2>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
-              <li>Reconstruction de l'estime de soi</li>
-              <li>Gestion de l'angoisse de récidive</li>
+              <li>Reconstruction de l&apos;estime de soi</li>
+              <li>Gestion de l&apos;angoisse de récidive</li>
               <li>Réappropriation du corps</li>
-              <li>Projection dans l'avenir</li>
+              <li>Projection dans l&apos;avenir</li>
               <li>Retour à une vie sociale et professionnelle</li>
             </ul>
           </div>
@@ -83,7 +83,7 @@ const SophrologieEtCancerPage = () => {
               La sophrologie vient en complément des soins médicaux et offre des outils concrets pour mieux vivre cette épreuve avec sérénité et espoir.
             </p>
             <p className="text-green-700 mt-2">
-              <span className="font-semibold">J’adapte les séances aux besoins de mes clients.</span>
+              <span className="font-semibold">J&apos;adapte les séances aux besoins de mes clients.</span>
             </p>
           </div>
         </div>

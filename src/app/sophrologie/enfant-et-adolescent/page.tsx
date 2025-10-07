@@ -17,11 +17,11 @@ const EnfantEtAdolescentPage = () => {
           {/* Introduction */}
           <div className="bg-white rounded-2xl shadow p-6">
             <p className="text-lg mb-4">
-              Comme les adultes, les enfants et les adolescents ont besoin d'un équilibre pour être heureux et bien grandir. 
-              La sophrologie leur fait découvrir les nombreuses ressources qu'ils ont en eux, et leur offre des outils pour mieux gérer leurs émotions dans un monde en constante évolution.
+              Comme les adultes, les enfants et les adolescents ont besoin d&apos;un équilibre pour être heureux et bien grandir. 
+              La sophrologie leur fait découvrir les nombreuses ressources qu&apos;ils ont en eux, et leur offre des outils pour mieux gérer leurs émotions dans un monde en constante évolution.
             </p>
             <p className="text-lg mb-2 font-semibold text-[#007562]">
-              Un enfant heureux est un enfant qui s'adapte au monde qui l'entoure.
+              Un enfant heureux est un enfant qui s&apos;adapte au monde qui l&apos;entoure.
             </p>
           </div>
 
@@ -30,10 +30,10 @@ const EnfantEtAdolescentPage = () => {
             <h2 className="text-2xl font-semibold mb-3 text-yellow-800">La sophrologie ludique avec les enfants (6-12 ans)</h2>
             <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
               <li>Découverte de ses ressources et prise de conscience du corps et des ressentis</li>
-              <li>Exercices sous forme de jeux, d'histoires et d'imagination</li>
-              <li>Retrouver le calme, l'attention, la concentration</li>
-              <li>Équilibrer le trop-plein d'énergie, se libérer des tensions, fatigues, colères</li>
-              <li>Gérer le stress lié à la scolarité, la peur de l'échec</li>
+              <li>Exercices sous forme de jeux, d&apos;histoires et d&apos;imagination</li>
+              <li>Retrouver le calme, l&apos;attention, la concentration</li>
+              <li>Équilibrer le trop-plein d&apos;énergie, se libérer des tensions, fatigues, colères</li>
+              <li>Gérer le stress lié à la scolarité, la peur de l&apos;échec</li>
               <li>Développer la confiance en soi et apprendre à ne plus avoir peur de ses peurs</li>
               <li>Se préparer aux changements (séparation, déménagement...)</li>
               <li>Corriger un trouble émotionnel ou physique</li>
@@ -50,7 +50,7 @@ const EnfantEtAdolescentPage = () => {
           <div className="bg-blue-50 rounded-2xl shadow p-6">
             <h2 className="text-2xl font-semibold mb-3 text-blue-800">La sophrologie avec les adolescents</h2>
             <p className="mb-3 text-gray-700">
-              L'adolescence est une période délicate, marquée par de grands changements physiques, psychiques et émotionnels. L'adolescent doit prendre son autonomie affective pour devenir adulte, ce qui n'est pas toujours simple.
+              L&apos;adolescence est une période délicate, marquée par de grands changements physiques, psychiques et émotionnels. L&apos;adolescent doit prendre son autonomie affective pour devenir adulte, ce qui n&apos;est pas toujours simple.
             </p>
             <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
               <li>Résoudre les difficultés de sommeil</li>
@@ -74,14 +74,14 @@ const EnfantEtAdolescentPage = () => {
             <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
               <li>Développer son autonomie émotionnelle</li>
               <li>Améliorer ses relations avec les autres</li>
-              <li>Renforcer sa capacité d'adaptation</li>
+              <li>Renforcer sa capacité d&apos;adaptation</li>
               <li>Cultiver un regard positif sur la vie</li>
             </ul>
             <div className="bg-white border-l-4 border-purple-400 p-4 rounded">
               <span className="font-medium text-purple-700">
                 Les techniques apprises en sophrologie deviennent des outils précieux pour toute la vie.
                 <br />
-                <span className="block mt-2">Durée et méthodes ajustées selon l'âge et la maturité, dans un environnement bienveillant et sécurisé.</span>
+                <span className="block mt-2">Durée et méthodes ajustées selon l&apos;âge et la maturité, dans un environnement bienveillant et sécurisé.</span>
               </span>
             </div>
           </div>

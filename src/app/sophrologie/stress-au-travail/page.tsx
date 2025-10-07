@@ -47,8 +47,8 @@ const StressAuTravailPage = () => {
         
         <h2 className="text-2xl font-semibold mb-4">Prévention du burn-out</h2>
         <p className="text-lg mb-6">
-          La sophrologie aide à reconnaître les signaux d'alarme et à mettre en place 
-          des stratégies préventives pour éviter l'épuisement professionnel.
+          La sophrologie aide à reconnaître les signaux d&apos;alarme et à mettre en place 
+          des stratégies préventives pour éviter l&apos;épuisement professionnel.
         </p>
         
         <h2 className="text-2xl font-semibold mb-4">Accompagnement personnalisé</h2>
@@ -66,7 +66,7 @@ const StressAuTravailPage = () => {
             Retrouvez votre sérénité professionnelle
           </p>
           <p className="text-red-700">
-            Investir dans votre bien-être au travail, c'est investir dans votre performance 
+            Investir dans votre bien-être au travail, c&apos;est investir dans votre performance 
             et votre épanouissement personnel.
           </p>
         </div>
