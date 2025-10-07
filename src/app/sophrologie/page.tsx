@@ -46,87 +46,97 @@ const bienfaits = [
 const SophrologiePage = () => {
   return (
     <div className="min-h-screen pt-16 px-4 ">
-      <div className="max-w-4xl mx-auto py-10">
-        <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight">
-          Qu'est-ce que la sophrologie ?
+      <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
+          La Sophrologie
         </h1>
-        <div className="space-y-8">
-          {/* Intro */}
-          <div className="bg-white/90 rounded-2xl shadow-lg p-8">
-            <p className="text-lg mb-4">
-              <strong>La sophrologie</strong>, c'est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale.
-            </p>
-            <p className="text-lg mb-4">
-              <span className="font-semibold text-[#007562]">La sophrologie est une pédagogie, un apprentissage dont vous êtes le principal acteur.</span>
-            </p>
-            <p className="text-lg mb-4">
-              En pratiquant, vous deviendrez autonome et serez capable de répondre à vos besoins concrets dans votre vie quotidienne. À chaque séance, différentes capacités en vous sont travaillées.
-            </p>
-            <p className="text-lg mb-4">
-              Elle permet d'établir un équilibre, une harmonie entre le corps et l'esprit afin d'augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources.
-            </p>
-            <p className="text-lg">
-              La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l'objectif que nous aurons défini ensemble.
-            </p>
-          </div>
+      </div>
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <p className="text-lg text-gray-700 mb-6">
+          La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l&apos;esprit.
+        </p>
+        <div className="max-w-4xl mx-auto py-10">
+          <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight">
+            Qu&apos;est-ce que la sophrologie ?
+          </h1>
+          <div className="space-y-8">
+            {/* Intro */}
+            <div className="bg-white/90 rounded-2xl shadow-lg p-8">
+              <p className="text-lg mb-4">
+                <strong>La sophrologie</strong>, c&apos;est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale.
+              </p>
+              <p className="text-lg mb-4">
+                <span className="font-semibold text-[#007562]">La sophrologie est une pédagogie, un apprentissage dont vous êtes le principal acteur.</span>
+              </p>
+              <p className="text-lg mb-4">
+                En pratiquant, vous deviendrez autonome et serez capable de répondre à vos besoins concrets dans votre vie quotidienne. À chaque séance, différentes capacités en vous sont travaillées.
+              </p>
+              <p className="text-lg mb-4">
+                Elle permet d&apos;établir un équilibre, une harmonie entre le corps et l&apos;esprit afin d&apos;augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources.
+              </p>
+              <p className="text-lg">
+                La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l&apos;objectif que nous aurons défini ensemble.
+              </p>
+            </div>
 
-          {/* Vrai/Faux */}
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-gradient-to-r from-[#f8fafc] to-white rounded-2xl shadow p-6">
-              <h2 className="text-xl font-semibold mb-4 text-[#d97706] flex items-center gap-2">
-                <span className="text-2xl">❌</span> Les idées fausses
-              </h2>
+            {/* Vrai/Faux */}
+            <div className="grid md:grid-cols-2 gap-8">
+              <div className="bg-gradient-to-r from-[#f8fafc] to-white rounded-2xl shadow p-6">
+                <h2 className="text-xl font-semibold mb-4 text-[#d97706] flex items-center gap-2">
+                  <span className="text-2xl">❌</span> Les idées fausses
+                </h2>
+                <ul className="list-disc list-inside text-gray-700 space-y-2">
+                  {faussesIdees.map((item, idx) => (
+                    <li key={idx}>{item}</li>
+                  ))}
+                </ul>
+              </div>
+              <div className="bg-gradient-to-r from-[#e6f4ef] to-white rounded-2xl shadow p-6">
+                <h2 className="text-xl font-semibold mb-4 text-[#007562] flex items-center gap-2">
+                  <span className="text-2xl">✔️</span> Ce qui est vrai
+                </h2>
+                <ul className="list-disc list-inside text-gray-700 space-y-2">
+                  {verites.map((item, idx) => (
+                    <li key={idx}>{item}</li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+
+            {/* Applications */}
+            <div className="bg-white/90 rounded-2xl shadow-lg p-8">
+              <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Pour quoi pratiquer la sophrologie ?</h2>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
-                {faussesIdees.map((item, idx) => (
+                {applications.map((item, idx) => (
                   <li key={idx}>{item}</li>
                 ))}
               </ul>
             </div>
-            <div className="bg-gradient-to-r from-[#e6f4ef] to-white rounded-2xl shadow p-6">
-              <h2 className="text-xl font-semibold mb-4 text-[#007562] flex items-center gap-2">
-                <span className="text-2xl">✔️</span> Ce qui est vrai
-              </h2>
+
+            {/* Bienfaits */}
+            <div className="bg-gradient-to-r from-[#e6f4ef] to-white rounded-2xl shadow p-8">
+              <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Les bienfaits de la sophrologie</h2>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
-                {verites.map((item, idx) => (
+                {bienfaits.map((item, idx) => (
                   <li key={idx}>{item}</li>
                 ))}
               </ul>
             </div>
-          </div>
 
-          {/* Applications */}
-          <div className="bg-white/90 rounded-2xl shadow-lg p-8">
-            <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Pour quoi pratiquer la sophrologie ?</h2>
-            <ul className="list-disc list-inside text-gray-700 space-y-2">
-              {applications.map((item, idx) => (
-                <li key={idx}>{item}</li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Bienfaits */}
-          <div className="bg-gradient-to-r from-[#e6f4ef] to-white rounded-2xl shadow p-8">
-            <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Les bienfaits de la sophrologie</h2>
-            <ul className="list-disc list-inside text-gray-700 space-y-2">
-              {bienfaits.map((item, idx) => (
-                <li key={idx}>{item}</li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Services */}
-          <div className="bg-white/90 rounded-2xl shadow-lg p-8">
-            <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Mes Services</h2>
-            <ul className="list-disc list-inside mb-6 text-gray-700">
-              <li>Séances individuelles personnalisées</li>
-              <li>Accompagnement pour la gestion du stress</li>
-              <li>Préparation mentale</li>
-              <li>Amélioration du sommeil</li>
-              <li>Développement de la confiance en soi</li>
-            </ul>
-            <p className="text-lg">
-              Chaque séance est adaptée à vos besoins spécifiques pour vous aider à retrouver équilibre et bien-être.
-            </p>
+            {/* Services */}
+            <div className="bg-white/90 rounded-2xl shadow-lg p-8">
+              <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Mes Services</h2>
+              <ul className="list-disc list-inside mb-6 text-gray-700">
+                <li>Séances individuelles personnalisées</li>
+                <li>Accompagnement pour la gestion du stress</li>
+                <li>Préparation mentale</li>
+                <li>Amélioration du sommeil</li>
+                <li>Développement de la confiance en soi</li>
+              </ul>
+              <p className="text-lg">
+                Chaque séance est adaptée à vos besoins spécifiques pour vous aider à retrouver équilibre et bien-être.
+              </p>
+            </div>
           </div>
         </div>
       </div>

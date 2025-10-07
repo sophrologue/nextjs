@@ -12,17 +12,15 @@ const SophrologyDiscoverySection = () => {
       
       <div className="bg-gradient-to-r from-gray-50 to-white rounded-xl shadow-lg p-8">
         <p className="text-lg leading-relaxed mb-6 text-gray-700">
-          Puis, une épreuve personnelle m'a amenée à me questionner sur les nouveaux chapitres que je voulais ajouter à mon existence. C'est à ce moment-là, que j'ai découvert la <strong className="text-[#005649]">sophrologie</strong>, une discipline qui m'a aidée à me reconnecter avec moi-même, à prendre conscience de l'urgence de prendre soin de moi.
+          J'ai découvert la sophrologie il y a plusieurs années, lors d'une période de remise en question professionnelle et personnelle. Cette méthode m'a permis de retrouver confiance, sérénité et d'avancer vers de nouveaux projets. Aujourd'hui, j'ai à cœur de transmettre ces outils à mon tour.
         </p>
         
-        <blockquote className="border-l-4 border-[#007562] bg-[#007562]/5 p-6 rounded-r-lg mb-6">
-          <p className="text-xl italic text-[#005649] font-semibold">
-            "Prends soin de toi et apprends aux autres à prendre soin d'eux."
-          </p>
+        <blockquote className="mt-6 text-gray-500 italic text-sm md:text-base">
+          &quot;Ce n'est pas le chemin qui est difficile, c'est le difficile qui est chemin.&quot; – Søren Kierkegaard
         </blockquote>
         
-        <p className="text-lg leading-relaxed text-gray-700">
-          Le message était clair. J'avais besoin à mon tour de faire découvrir et transmettre au plus grand nombre tous les bienfaits quotidiens de cette pédagogie, de cet <strong className="text-[#007562]">apprentissage dynamique du bien-être</strong>.
+        <p className="mt-4 text-gray-600 text-sm">
+          La sophrologie s'adresse à tous, quels que soient l'âge et la situation.
         </p>
       </div>
     </div>

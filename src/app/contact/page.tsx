@@ -1,10 +1,15 @@
-  import React from 'react';
+import React from 'react';
 
 const ContactPage = () => {
   return (
     <div className="min-h-screen pt-16 px-4">
       <div className="max-w-4xl mx-auto py-8">
-        <h1 className="text-4xl font-bold mb-8 text-center">Me Contacter</h1>
+        <h1 className="text-3xl md:text-4xl font-bold text-[#005649] mb-4">
+          Contactez-moi
+        </h1>
+        <p className="text-lg text-gray-700 mb-6">
+          Je suis à votre écoute pour toute question ou prise de rendez-vous.
+        </p>
         
         <div className="grid md:grid-cols-2 gap-8">
           {/* Contact Information */}
@@ -71,6 +76,9 @@ const ContactPage = () => {
             Téléconsultations et séances en visio (Skype, Zoom, Discord) disponibles.<br />
             Appelez-moi pour plus d'informations !
           </p>
+          <span className="text-gray-500 text-sm">
+            Je m&apos;engage à vous répondre dans les plus brefs délais.
+          </span>
         </div>
       </div>
     </div>

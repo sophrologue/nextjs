@@ -4,9 +4,12 @@ const LaSocietePage = () => {
   return (
     <div className="min-h-screen pt-16 px-4">
       <div className="max-w-4xl mx-auto py-10">
-        <h1 className="text-4xl font-bold mb-10 text-center text-[#005649] tracking-tight">
+        <h1 className="text-3xl md:text-4xl font-bold text-[#005649] mb-4">
           La Société
         </h1>
+        <p className="text-lg text-gray-700 mb-6">
+          La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
+        </p>
         <div className="space-y-8">
           {/* Mission */}
           <div className="bg-gradient-to-r from-white to-[#f8fafc] p-8 rounded-2xl shadow-lg flex items-start gap-4">
@@ -17,10 +20,14 @@ const LaSocietePage = () => {
             </div>
             <div>
               <h2 className="text-2xl font-semibold mb-2 text-[#007562]">Notre Mission</h2>
-              <p className="text-lg text-gray-700">
-                Notre société s'engage à promouvoir le bien-être et l'épanouissement personnel 
-                à travers la sophrologie. Nous croyons en l'importance de l'équilibre entre 
-                le corps et l'esprit pour une vie harmonieuse.
+              <p className="text-lg text-gray-700 mb-6">
+                La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
+              </p>
+              <p className="text-base text-gray-600 mb-4">
+                Forte d&apos;une expérience de plus de 10 ans dans l&apos;accompagnement, je propose des séances individuelles, des ateliers collectifs et des interventions en entreprise adaptées à vos besoins.
+              </p>
+              <p className="text-base text-gray-600 mb-8">
+                N&apos;hésitez pas à me contacter pour toute demande d&apos;information ou de devis.
               </p>
             </div>
           </div>
@@ -90,6 +97,30 @@ const LaSocietePage = () => {
               </div>
             </div>
           </div>
+        </div>
+        <div className="mt-10 text-center">
+          <p className="text-gray-600 text-sm mb-2">
+            Catherine Fabrici Sophrologie - 888 888 888 00018
+          </p>
+          <ul className="list-none text-gray-600 text-sm space-y-1">
+            <li className="mb-2">
+              <span className="font-semibold">SIRET :</span> 888 888 888 00018 (Entreprise individuelle)
+            </li>
+            <li className="mb-2">
+              <span className="font-semibold">Adresse :</span> 12 rue de l&apos;Exemple, 75000 Paris
+            </li>
+            <li className="mb-2">
+              <span className="font-semibold">Email :</span> contact@catherinefabrici.fr
+            </li>
+            <li className="mb-2">
+              <span className="font-semibold">Téléphone :</span> 01 23 45 67 89
+            </li>
+          </ul>
+        </div>
+        <div className="mt-10 border-t pt-6 text-center">
+          <span className="text-gray-500 text-xs">
+            &copy; {new Date().getFullYear()} Catherine Fabrici Sophrologie. Tous droits réservés.
+          </span>
         </div>
       </div>
     </div>

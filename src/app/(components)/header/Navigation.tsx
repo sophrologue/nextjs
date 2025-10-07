@@ -105,7 +105,7 @@ const Navigation = () => {
                                 </Link>
                                 <Link href="/sophrologie/enfant-et-adolescent" className="group/item flex items-center px-5 py-3 text-sm hover:bg-[#005649]/10 hover:text-[#005649] transition-all duration-200 rounded-lg mx-2 border-l-4 border-transparent hover:border-[#005649]">
                                     <span className="w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"></span>
-                                    L'enfant et l'adolescent
+                                    L&apos;enfant et l&apos;adolescent
                                 </Link>
                                 <Link href="/sophrologie/stress-au-travail" className="group/item flex items-center px-5 py-3 text-sm hover:bg-[#005649]/10 hover:text-[#005649] transition-all duration-200 rounded-lg mx-2 border-l-4 border-transparent hover:border-[#005649]">
                                     <span className="w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"></span>
@@ -269,7 +269,7 @@ const Navigation = () => {
                                 }`}
                                 onClick={closeMenu}
                             >
-                                L'enfant et l'adolescent
+                                L&apos;enfant et l&apos;adolescent
                             </Link>
                             <Link 
                                 href="/sophrologie/stress-au-travail" 

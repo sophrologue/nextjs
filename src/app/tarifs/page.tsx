@@ -4,23 +4,25 @@ const TarifsPage = () => {
   return (
     <div className="min-h-screen pt-16 px-4 bg-gradient-to-b from-[#f8fafc] to-white">
       <div className="max-w-3xl mx-auto py-10">
-        <h1 className="text-4xl font-bold mb-10 text-center text-[#005649] tracking-tight">
+        <h1 className="text-3xl md:text-4xl font-bold text-[#005649] mb-4">
           Tarifs
         </h1>
 
-        {/* Premier rendez-vous */}
-        <div className="bg-gradient-to-r from-[#e6f4ef] to-[#f8fafc] rounded-2xl shadow-xl p-8 mb-10 border-l-8 border-[#007562] flex flex-col md:flex-row items-center justify-between gap-6">
-          <div>
-            <h2 className="text-2xl font-semibold mb-2 text-[#007562]">Premier rendez-vous</h2>
-            <p className="text-gray-700 mb-2">
-              1h30 pour adulte, enfant, adolescent.<br />
-              Objectif du programme défini ensemble.
-            </p>
-          </div>
-          <div className="text-4xl font-extrabold text-[#005649] bg-white/80 px-8 py-4 rounded-xl shadow-md">
-            60&nbsp;€
-          </div>
-        </div>
+        <p className="text-lg text-gray-700 mb-6">
+          Retrouvez ici les tarifs des séances de sophrologie et d&apos;hypnose humaniste.
+        </p>
+
+        <ul>
+          <li>
+            Séance individuelle adulte : 60€ (1h)
+          </li>
+          <li>
+            Séance individuelle enfant/adolescent : 50€ (45 min)
+          </li>
+          <li>
+            Séance d&apos;hypnose humaniste : 70€ (1h15)
+          </li>
+        </ul>
 
         <div className="grid md:grid-cols-2 gap-8">
           {/* Enfant / Adolescent jusqu'à 12 ans */}

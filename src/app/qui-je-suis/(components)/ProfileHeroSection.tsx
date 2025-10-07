@@ -1,8 +1,8 @@
 import React from 'react';
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 
 interface ProfileHeroSectionProps {
-  profileImage: any;
+  profileImage: StaticImageData;
 }
 
 const ProfileHeroSection: React.FC<ProfileHeroSectionProps> = ({ profileImage }) => {
@@ -28,20 +28,20 @@ const ProfileHeroSection: React.FC<ProfileHeroSectionProps> = ({ profileImage })
 
           {/* Introduction */}
           <div className="text-center lg:text-left flex-1">
-            <h1 className="text-5xl lg:text-6xl font-bold mb-6 drop-shadow-lg">
-              Qui je suis ?
+            <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg">
+              Mon parcours, ma passion pour l&apos;accompagnement
             </h1>
-            <p className="text-xl lg:text-2xl mb-8 opacity-95 leading-relaxed">
-              De l'enseignement à la sophrologie, un parcours guidé par la passion d'accompagner et de transmettre.
+            <p className="text-lg text-white/90 mb-6">
+              J&apos;ai à cœur de vous accompagner avec bienveillance et professionnalisme.
             </p>
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start">
-              <span className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm">
+              <span className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm text-white">
                 Ancienne Enseignante
               </span>
-              <span className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm">
+              <span className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm text-white">
                 Centre Evolution Formation
               </span>
-              <span className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm">
+              <span className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm text-white">
                 Société Française de Sophrologie
               </span>
             </div>

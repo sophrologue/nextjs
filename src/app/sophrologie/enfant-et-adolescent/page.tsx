@@ -3,10 +3,15 @@ import React from 'react';
 const EnfantEtAdolescentPage = () => {
   return (
     <div className="min-h-screen pt-16 px-4 bg-white">
-      <div className="max-w-4xl mx-auto py-8">
-        <h1 className="text-4xl font-bold mb-8 text-center text-[#005649]">
-          L'Enfant et l'Adolescent &mdash; Sophrologie
+      <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
+          L&apos;enfant et l&apos;adolescent
         </h1>
+      </div>
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <p className="text-lg text-gray-700 mb-6">
+          La sophrologie accompagne l&apos;enfant et l&apos;adolescent dans les différentes étapes de leur développement.
+        </p>
         <div className="space-y-8">
 
           {/* Introduction */}
@@ -80,6 +85,11 @@ const EnfantEtAdolescentPage = () => {
               </span>
             </div>
           </div>
+        </div>
+        <div className="mt-8 text-center">
+          <span className="text-gray-500 text-xs">
+            &copy; {new Date().getFullYear()} Catherine Fabrici Sophrologie. Tous droits réservés.
+          </span>
         </div>
       </div>
     </div>

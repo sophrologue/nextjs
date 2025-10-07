@@ -20,10 +20,15 @@ const themes = [
 const HypnoseHumanistePage = () => {
   return (
     <div className="min-h-screen pt-16 px-4 bg-white">
-      <div className="max-w-4xl mx-auto py-8">
-        <h1 className="text-4xl font-bold mb-8 text-center text-[#005649]">
+      <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
           Hypnose Humaniste
         </h1>
+      </div>
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <p className="text-lg text-gray-700 mb-6">
+          L&apos;hypnose humaniste est une approche thérapeutique qui vise à reconnecter la personne à ses ressources profondes.
+        </p>
         <div className="space-y-8">
 
           {/* Introduction */}
@@ -114,6 +119,18 @@ const HypnoseHumanistePage = () => {
             </ul>
           </div>
 
+          <p className="text-lg text-gray-700 mb-6">
+            L&apos;hypnose humaniste est une approche thérapeutique qui vise à reconnecter la personne à ses ressources profondes.
+          </p>
+          <li>
+            Développer la confiance en soi et l&apos;estime de soi
+          </li>
+          <li>
+            Accompagner les changements de vie et l&apos;évolution personnelle
+          </li>
+          <span className="text-gray-500 text-xs">
+            &copy; {new Date().getFullYear()} Catherine Fabrici Sophrologie. Tous droits réservés.
+          </span>
         </div>
       </div>
     </div>

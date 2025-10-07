@@ -11,7 +11,7 @@ interface HomePageLayoutProps {
 export default function HomePageLayout({ children, backgroundImage }: HomePageLayoutProps) {
   return (
     <section 
-      className="min-h-screen bg-cover bg-center bg-no-repeat relative overflow-hidden w-[80%] mx-auto "
+      className="min-h-screen bg-cover bg-center bg-no-repeat relative overflow-hidden w-full mx-auto"
       style={{
         backgroundImage: `url(${backgroundImage.src})`
       }}

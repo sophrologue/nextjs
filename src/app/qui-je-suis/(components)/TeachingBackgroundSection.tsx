@@ -17,6 +17,12 @@ const TeachingBackgroundSection = () => {
         <p className="text-lg leading-relaxed text-gray-700">
           Bref, des <strong className="text-[#007562]">compétences pédagogiques</strong> pour aider les enfants à trouver et exploiter le meilleur d'eux-même... Enseigner aux petits et aux plus grands m'a également appris à cultiver <strong className="text-[#005649]">patience, bienveillance et humilité</strong>.
         </p>
+        <p className="mt-4 text-gray-600 text-sm">
+          J'ai exercé pendant plus de 15 ans dans l'enseignement, auprès d'enfants et d'adolescents, en mettant l'accent sur l'écoute et l'accompagnement individualisé.
+        </p>
+        <p className="mt-4 text-gray-600 text-sm">
+          Cette expérience m'a permis de développer des compétences relationnelles et pédagogiques essentielles dans mon métier de sophrologue.
+        </p>
       </div>
     </div>
   );
