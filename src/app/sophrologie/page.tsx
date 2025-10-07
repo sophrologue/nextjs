@@ -1,18 +1,18 @@
 import React from 'react';
 
 const faussesIdees = [
-  "Ce n'est pas de la psychologie.",
-  "Ce n'est pas de l'hypnose.",
-  "Elle n'est pas réservée uniquement aux personnes malades.",
+  "Ce n&rsquo;est pas de la psychologie.",
+  "Ce n&rsquo;est pas de l&rsquo;hypnose.",
+  "Elle n&rsquo;est pas réservée uniquement aux personnes malades.",
 ];
 
 const verites = [
   "Elle vous permettra de voir la vie de façon plus positive.",
   "Les séances sont adaptées à votre personnalité et à vos besoins.",
-  "L'efficacité est prouvée scientifiquement.",
+  "L&rsquo;efficacité est prouvée scientifiquement.",
   "Les exercices de respiration amènent calme et détente.",
   "La sophrologie est une pédagogie positive, elle vous permettra de retrouver le bonheur de vivre avec légèreté tout simplement.",
-  "Elle peut être un complément d'une thérapie avec un psychologue ou psychanalyste.",
+  "Elle peut être un complément d&rsquo;une thérapie avec un psychologue ou psychanalyste.",
   "Elle est prise en charge par certaines mutuelles.",
 ];
 
@@ -21,13 +21,13 @@ const applications = [
   "Le burn-out ou le bore-out.",
   "Apprendre à lâcher prise.",
   "Retrouver un sommeil réparateur, la confiance en soi, la concentration.",
-  "Accompagnement de la grossesse jusqu'à l'accouchement.",
-  "Se donner de l'énergie pour lutter contre la fatigue.",
+  "Accompagnement de la grossesse jusqu&rsquo;à l&rsquo;accouchement.",
+  "Se donner de l&rsquo;énergie pour lutter contre la fatigue.",
   "Pour la femme, vivre avec plus de sérénité la période de la ménopause.",
   "La préparation mentale aux examens, compétitions sportives, entretiens professionnels.",
   "Certaines maladies graves comme le cancer.",
-  "L'angoisse et l'anxiété, la dépression.",
-  "Les douleurs, les migraines, l'urticaire.",
+  "L&rsquo;angoisse et l&rsquo;anxiété, la dépression.",
+  "Les douleurs, les migraines, l&rsquo;urticaire.",
   "Stress lié aux changements : mariage, déménagement, décès.",
 ];
 
@@ -53,17 +53,17 @@ const SophrologiePage = () => {
       </div>
       <div className="max-w-3xl mx-auto px-4 py-8">
         <p className="text-lg text-gray-700 mb-6">
-          La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l&apos;esprit.
+          La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l&rsquo;esprit.
         </p>
         <div className="max-w-4xl mx-auto py-10">
           <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight">
-            Qu&apos;est-ce que la sophrologie ?
+            Qu&rsquo;est-ce que la sophrologie ?
           </h1>
           <div className="space-y-8">
             {/* Intro */}
             <div className="bg-white/90 rounded-2xl shadow-lg p-8">
               <p className="text-lg mb-4">
-                <strong>La sophrologie</strong>, c&apos;est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale.
+                <strong>La sophrologie</strong>, c&rsquo;est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale.
               </p>
               <p className="text-lg mb-4">
                 <span className="font-semibold text-[#007562]">La sophrologie est une pédagogie, un apprentissage dont vous êtes le principal acteur.</span>
@@ -72,10 +72,10 @@ const SophrologiePage = () => {
                 En pratiquant, vous deviendrez autonome et serez capable de répondre à vos besoins concrets dans votre vie quotidienne. À chaque séance, différentes capacités en vous sont travaillées.
               </p>
               <p className="text-lg mb-4">
-                Elle permet d&apos;établir un équilibre, une harmonie entre le corps et l&apos;esprit afin d&apos;augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources.
+                Elle permet d&rsquo;établir un équilibre, une harmonie entre le corps et l&rsquo;esprit afin d&rsquo;augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources.
               </p>
               <p className="text-lg">
-                La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l&apos;objectif que nous aurons défini ensemble.
+                La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l&rsquo;objectif que nous aurons défini ensemble.
               </p>
             </div>
 

@@ -9,7 +9,7 @@ import profileImage from "./(assets)/main_bg.png"; // Adjust path to your actual
 export default function Home() {
   return (
     <>
-      <main role="main" lang="fr" aria-label="Page d'accueil - Catherine Fabrici Sophrologue">
+      <main role="main" lang="fr" aria-label="Page d&rsquo;accueil - Catherine Fabrici Sophrologue">
         <HomePageLayout backgroundImage={profileImage}>
           <section aria-label="Section héro - Présentation principale">
             <HeroSection />
@@ -19,7 +19,7 @@ export default function Home() {
             <ProfessionalProfile />
           </aside>
           
-          <section aria-label="Appel à l'action - Prendre rendez-vous">
+          <section aria-label="Appel à l&rsquo;action - Prendre rendez-vous">
             <CallToActionBar />
           </section>
         </HomePageLayout>

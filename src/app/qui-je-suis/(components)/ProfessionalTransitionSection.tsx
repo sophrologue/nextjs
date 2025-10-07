@@ -12,15 +12,15 @@ const ProfessionalTransitionSection = () => {
       
       <div className="bg-white rounded-xl shadow-lg p-8">
         <p className="text-lg leading-relaxed mb-8 text-gray-700">
-          C'est dans cette suite logique, que j'ai quitté sans nostalgie mais avec fierté les cours de récré, les cartables, pour devenir à mon tour <strong className="text-[#005649]">sophrologue</strong>.
+          C&rsquo;est dans cette suite logique, que j&rsquo;ai quitté sans nostalgie mais avec fierté les cours de récré, les cartables, pour devenir à mon tour <strong className="text-[#005649]">sophrologue</strong>.
         </p>
         
         <p className="text-gray-700 text-base md:text-lg">
-          J'ai choisi de me reconvertir dans l'accompagnement humain après une carrière dans l'enseignement.
+          J&rsquo;ai choisi de me reconvertir dans l&rsquo;accompagnement humain après une carrière dans l&rsquo;enseignement.
         </p>
         
         <p className="mt-4 text-gray-600 text-sm">
-          Cette transition m'a permis d'allier mes valeurs humaines et mon envie d'accompagner chacun vers un mieux-être.
+          Cette transition m&rsquo;a permis d&rsquo;allier mes valeurs humaines et mon envie d&rsquo;accompagner chacun vers un mieux-être.
         </p>
         
         {/* Credentials */}
