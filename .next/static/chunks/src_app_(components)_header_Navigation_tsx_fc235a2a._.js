@@ -359,12 +359,12 @@ const Navigation = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                href: "/la-societe",
-                                className: "relative transition-all duration-300 font-medium px-3 py-2 rounded-lg group ".concat(isActive("/la-societe") ? "text-[#005649] font-semibold" : "text-gray-700 hover:text-[#005649] hover:bg-[#005649]/5"),
+                                href: "/mediation",
+                                className: "relative transition-all duration-300 font-medium px-3 py-2 rounded-lg group ".concat(isActive("/mediation") ? "text-[#005649] font-semibold" : "text-gray-700 hover:text-[#005649] hover:bg-[#005649]/5"),
                                 children: [
-                                    "La Société",
+                                    "Médiation",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ".concat(isActive("/la-societe") ? "w-full" : "w-0 group-hover:w-full")
+                                        className: "absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ".concat(isActive("/mediation") ? "w-full" : "w-0 group-hover:w-full")
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
                                         lineNumber: 152,
@@ -635,10 +635,10 @@ const Navigation = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                href: "/la-societe",
-                                className: "block px-6 py-3 transition-colors duration-200 font-medium border-b border-gray-100 ".concat(isActive("/la-societe") ? "text-[#005649] bg-[#005649]/10 font-semibold border-l-4 border-l-[#005649]" : "text-gray-700 hover:bg-[#005649]/5 hover:text-[#005649]"),
+                                href: "/mediation",
+                                className: "block px-6 py-3 transition-colors duration-200 font-medium border-b border-gray-100 ".concat(isActive("/mediation") ? "text-[#005649] bg-[#005649]/10 font-semibold border-l-4 border-l-[#005649]" : "text-gray-700 hover:bg-[#005649]/5 hover:text-[#005649]"),
                                 onClick: closeMenu,
-                                children: "La Société"
+                                children: "Médiation"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
                                 lineNumber: 325,

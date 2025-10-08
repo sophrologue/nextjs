@@ -143,14 +143,14 @@ const Navigation = () => {
                         </Link>
                     </li>
                     <li>
-                        <Link href="/la-societe" className={`relative transition-all duration-300 font-medium px-3 py-2 rounded-lg group ${
-                            isActive("/la-societe") 
+                        <Link href="/mediation" className={`relative transition-all duration-300 font-medium px-3 py-2 rounded-lg group ${
+                            isActive("/mediation") 
                                 ? "text-[#005649] font-semibold" 
                                 : "text-gray-700 hover:text-[#005649] hover:bg-[#005649]/5"
                         }`}>
-                            La Société
+                            Médiation
                             <span className={`absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${
-                                isActive("/la-societe") ? "w-full" : "w-0 group-hover:w-full"
+                                isActive("/mediation") ? "w-full" : "w-0 group-hover:w-full"
                             }`}></span>
                         </Link>
                     </li>
@@ -323,15 +323,15 @@ const Navigation = () => {
                     </li>
                     <li>
                         <Link 
-                            href="/la-societe" 
+                            href="/mediation" 
                             className={`block px-6 py-3 transition-colors duration-200 font-medium border-b border-gray-100 ${
-                                isActive("/la-societe") 
+                                isActive("/mediation") 
                                     ? "text-[#005649] bg-[#005649]/10 font-semibold border-l-4 border-l-[#005649]" 
                                     : "text-gray-700 hover:bg-[#005649]/5 hover:text-[#005649]"
                             }`}
                             onClick={closeMenu}
                         >
-                            La Société
+                          Médiation
                         </Link>
                     </li>
                     <li>

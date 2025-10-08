@@ -5,10 +5,10 @@ const LaSocietePage = () => {
     <div className="min-h-screen pt-16 px-4">
       <div className="max-w-4xl mx-auto py-10">
         <h1 className="text-3xl md:text-4xl font-bold text-[#005649] mb-4">
-          La Société
+        Médiation
         </h1>
         <p className="text-lg text-gray-700 mb-6">
-          La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
+          Médiation Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
         </p>
         <div className="space-y-8">
           {/* Mission */}
@@ -21,7 +21,7 @@ const LaSocietePage = () => {
             <div>
               <h2 className="text-2xl font-semibold mb-2 text-[#007562]">Notre Mission</h2>
               <p className="text-lg text-gray-700 mb-6">
-                La société Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
+                Médiation Catherine Fabrici Sophrologie accompagne les particuliers et les entreprises dans l&apos;amélioration de la qualité de vie, la gestion du stress et l&apos;épanouissement personnel et professionnel.
               </p>
               <p className="text-base text-gray-600 mb-4">
                 Forte d&apos;une expérience de plus de 10 ans dans l&apos;accompagnement, je propose des séances individuelles, des ateliers collectifs et des interventions en entreprise adaptées à vos besoins.
@@ -82,7 +82,7 @@ const LaSocietePage = () => {
                 À défaut d&apos;accord amiable ou en l&apos;absence de réponse du professionnel dans un délai raisonnable d&apos;un (1) mois, le Client consommateur au sens de l&apos;article L.133-4 du code de la consommation a la possibilité de saisir gratuitement, si un désaccord subsiste, le médiateur compétent inscrit sur la liste des médiateurs établie par la Commission d&apos;évaluation et de contrôle de la médiation de la consommation en application de l&apos;article L.615-1 du code de la consommation, à savoir :
               </p>
               <div className="bg-white border border-[#007562] rounded p-4 mb-2">
-                <strong>La Société Médiation Professionnelle</strong>
+                <strong>Médiation Médiation Professionnelle</strong>
                 <br />
                 <a
                   href="https://www.mediateur-consommation-smp.fr"
