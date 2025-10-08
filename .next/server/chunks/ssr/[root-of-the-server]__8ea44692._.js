@@ -20,7 +20,7 @@ __turbopack_context__.s([
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 ;
 const faussesIdees = [
-    "Ce              Qu&rsquo;est-ce que la sophrologie ?</h2>quo;est pas de la psychologie.",
+    "Ce n&rsquo;est pas de la psychologie.",
     "Ce n&rsquo;est pas de l&rsquo;hypnose.",
     "Elle n&rsquo;est pas réservée uniquement aux personnes malades."
 ];
@@ -82,7 +82,9 @@ const SophrologiePage = ()=>{
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-lg text-gray-700 mb-6",
-                        children: "La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l’esprit."
+                        dangerouslySetInnerHTML: {
+                            __html: "La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l&rsquo;esprit."
+                        }
                     }, void 0, false, {
                         fileName: "[project]/src/app/sophrologie/page.tsx",
                         lineNumber: 55,
@@ -93,10 +95,12 @@ const SophrologiePage = ()=>{
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight",
-                                children: "Qu’est-ce que la sophrologie ?"
+                                dangerouslySetInnerHTML: {
+                                    __html: "Qu&rsquo;est-ce que la sophrologie ?"
+                                }
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                lineNumber: 59,
+                                lineNumber: 58,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -107,19 +111,12 @@ const SophrologiePage = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-lg mb-4",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                        children: "La sophrologie"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 66,
-                                                        columnNumber: 17
-                                                    }, ("TURBOPACK compile-time value", void 0)),
-                                                    ", c’est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale."
-                                                ]
-                                            }, void 0, true, {
+                                                dangerouslySetInnerHTML: {
+                                                    __html: "<strong>La sophrologie</strong>, c&rsquo;est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale."
+                                                }
+                                            }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 65,
+                                                lineNumber: 63,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -129,12 +126,12 @@ const SophrologiePage = ()=>{
                                                     children: "La sophrologie est une pédagogie, un apprentissage dont vous êtes le principal acteur."
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                    lineNumber: 69,
+                                                    lineNumber: 66,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 68,
+                                                lineNumber: 65,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -142,29 +139,33 @@ const SophrologiePage = ()=>{
                                                 children: "En pratiquant, vous deviendrez autonome et serez capable de répondre à vos besoins concrets dans votre vie quotidienne. À chaque séance, différentes capacités en vous sont travaillées."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 71,
+                                                lineNumber: 68,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-lg mb-4",
-                                                children: "Elle permet d’établir un équilibre, une harmonie entre le corps et l’esprit afin d’augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources."
+                                                dangerouslySetInnerHTML: {
+                                                    __html: "Elle permet d&rsquo;établir un équilibre, une harmonie entre le corps et l&rsquo;esprit afin d&rsquo;augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources."
+                                                }
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 74,
+                                                lineNumber: 71,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-lg",
-                                                children: "La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l’objectif que nous aurons défini ensemble."
+                                                dangerouslySetInnerHTML: {
+                                                    __html: "La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l&rsquo;objectif que nous aurons défini ensemble."
+                                                }
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 77,
+                                                lineNumber: 73,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                        lineNumber: 64,
+                                        lineNumber: 62,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -181,34 +182,36 @@ const SophrologiePage = ()=>{
                                                                 children: "❌"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                                lineNumber: 86,
+                                                                lineNumber: 81,
                                                                 columnNumber: 19
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             " Les idées fausses"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 85,
+                                                        lineNumber: 80,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                         className: "list-disc list-inside text-gray-700 space-y-2",
                                                         children: faussesIdees.map((item, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: item
+                                                                dangerouslySetInnerHTML: {
+                                                                    __html: item
+                                                                }
                                                             }, idx, false, {
                                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                                lineNumber: 90,
+                                                                lineNumber: 85,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)))
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 88,
+                                                        lineNumber: 83,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 84,
+                                                lineNumber: 79,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -222,40 +225,42 @@ const SophrologiePage = ()=>{
                                                                 children: "✔️"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                                lineNumber: 96,
+                                                                lineNumber: 91,
                                                                 columnNumber: 19
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             " Ce qui est vrai"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 95,
+                                                        lineNumber: 90,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                         className: "list-disc list-inside text-gray-700 space-y-2",
                                                         children: verites.map((item, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: item
+                                                                dangerouslySetInnerHTML: {
+                                                                    __html: item
+                                                                }
                                                             }, idx, false, {
                                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                                lineNumber: 100,
+                                                                lineNumber: 95,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)))
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 98,
+                                                        lineNumber: 93,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 94,
+                                                lineNumber: 89,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                        lineNumber: 83,
+                                        lineNumber: 78,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -266,27 +271,29 @@ const SophrologiePage = ()=>{
                                                 children: "Pour quoi pratiquer la sophrologie ?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 108,
+                                                lineNumber: 103,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                 className: "list-disc list-inside text-gray-700 space-y-2",
                                                 children: applications.map((item, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: item
+                                                        dangerouslySetInnerHTML: {
+                                                            __html: item
+                                                        }
                                                     }, idx, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 111,
+                                                        lineNumber: 106,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 109,
+                                                lineNumber: 104,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                        lineNumber: 107,
+                                        lineNumber: 102,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -297,27 +304,29 @@ const SophrologiePage = ()=>{
                                                 children: "Les bienfaits de la sophrologie"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 118,
+                                                lineNumber: 113,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                 className: "list-disc list-inside text-gray-700 space-y-2",
                                                 children: bienfaits.map((item, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: item
+                                                        dangerouslySetInnerHTML: {
+                                                            __html: item
+                                                        }
                                                     }, idx, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 121,
+                                                        lineNumber: 116,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 119,
+                                                lineNumber: 114,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                        lineNumber: 117,
+                                        lineNumber: 112,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -328,7 +337,7 @@ const SophrologiePage = ()=>{
                                                 children: "Mes Services"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 128,
+                                                lineNumber: 123,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -338,41 +347,41 @@ const SophrologiePage = ()=>{
                                                         children: "Séances individuelles personnalisées"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 130,
+                                                        lineNumber: 125,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Accompagnement pour la gestion du stress"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 131,
+                                                        lineNumber: 126,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Préparation mentale"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 132,
+                                                        lineNumber: 127,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Amélioration du sommeil"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 133,
+                                                        lineNumber: 128,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: "Développement de la confiance en soi"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                        lineNumber: 134,
+                                                        lineNumber: 129,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 129,
+                                                lineNumber: 124,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -380,25 +389,25 @@ const SophrologiePage = ()=>{
                                                 children: "Chaque séance est adaptée à vos besoins spécifiques pour vous aider à retrouver équilibre et bien-être."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                                lineNumber: 136,
+                                                lineNumber: 131,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                                        lineNumber: 127,
+                                        lineNumber: 122,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/sophrologie/page.tsx",
-                                lineNumber: 62,
+                                lineNumber: 60,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/sophrologie/page.tsx",
-                        lineNumber: 58,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]

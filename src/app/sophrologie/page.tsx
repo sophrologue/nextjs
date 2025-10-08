@@ -1,7 +1,7 @@
 import React from 'react';
 
 const faussesIdees = [
-  "Ce              Qu&rsquo;est-ce que la sophrologie ?</h2>quo;est pas de la psychologie.",
+  "Ce n&rsquo;est pas de la psychologie.",
   "Ce n&rsquo;est pas de l&rsquo;hypnose.",
   "Elle n&rsquo;est pas réservée uniquement aux personnes malades.",
 ];
@@ -52,18 +52,15 @@ const SophrologiePage = () => {
         </h1>
       </div>
       <div className="max-w-3xl mx-auto px-4 py-8">
-        <p className="text-lg text-gray-700 mb-6">
-          La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l&rsquo;esprit.
+        <p className="text-lg text-gray-700 mb-6" dangerouslySetInnerHTML={{ __html: "La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l&rsquo;esprit." }}>
         </p>
         <div className="max-w-4xl mx-auto py-10">
-          <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight">
-            Qu&rsquo;est-ce que la sophrologie ?
+          <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight" dangerouslySetInnerHTML={{ __html: "Qu&rsquo;est-ce que la sophrologie ?" }}>
           </h1>
           <div className="space-y-8">
             {/* Intro */}
             <div className="bg-white/90 rounded-2xl shadow-lg p-8">
-              <p className="text-lg mb-4">
-                <strong>La sophrologie</strong>, c&rsquo;est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale.
+              <p className="text-lg mb-4" dangerouslySetInnerHTML={{ __html: "<strong>La sophrologie</strong>, c&rsquo;est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale." }}>
               </p>
               <p className="text-lg mb-4">
                 <span className="font-semibold text-[#007562]">La sophrologie est une pédagogie, un apprentissage dont vous êtes le principal acteur.</span>
@@ -71,11 +68,9 @@ const SophrologiePage = () => {
               <p className="text-lg mb-4">
                 En pratiquant, vous deviendrez autonome et serez capable de répondre à vos besoins concrets dans votre vie quotidienne. À chaque séance, différentes capacités en vous sont travaillées.
               </p>
-              <p className="text-lg mb-4">
-                Elle permet d&rsquo;établir un équilibre, une harmonie entre le corps et l&rsquo;esprit afin d&rsquo;augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources.
+              <p className="text-lg mb-4" dangerouslySetInnerHTML={{ __html: "Elle permet d&rsquo;établir un équilibre, une harmonie entre le corps et l&rsquo;esprit afin d&rsquo;augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources." }}>
               </p>
-              <p className="text-lg">
-                La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l&rsquo;objectif que nous aurons défini ensemble.
+              <p className="text-lg" dangerouslySetInnerHTML={{ __html: "La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l&rsquo;objectif que nous aurons défini ensemble." }}>
               </p>
             </div>
 
@@ -87,7 +82,7 @@ const SophrologiePage = () => {
                 </h2>
                 <ul className="list-disc list-inside text-gray-700 space-y-2">
                   {faussesIdees.map((item, idx) => (
-                    <li key={idx}>{item}</li>
+                    <li key={idx} dangerouslySetInnerHTML={{ __html: item }}></li>
                   ))}
                 </ul>
               </div>
@@ -97,7 +92,7 @@ const SophrologiePage = () => {
                 </h2>
                 <ul className="list-disc list-inside text-gray-700 space-y-2">
                   {verites.map((item, idx) => (
-                    <li key={idx}>{item}</li>
+                    <li key={idx} dangerouslySetInnerHTML={{ __html: item }}></li>
                   ))}
                 </ul>
               </div>
@@ -108,7 +103,7 @@ const SophrologiePage = () => {
               <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Pour quoi pratiquer la sophrologie ?</h2>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 {applications.map((item, idx) => (
-                  <li key={idx}>{item}</li>
+                  <li key={idx} dangerouslySetInnerHTML={{ __html: item }}></li>
                 ))}
               </ul>
             </div>
@@ -118,7 +113,7 @@ const SophrologiePage = () => {
               <h2 className="text-2xl font-semibold mb-4 text-[#007562]">Les bienfaits de la sophrologie</h2>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 {bienfaits.map((item, idx) => (
-                  <li key={idx}>{item}</li>
+                  <li key={idx} dangerouslySetInnerHTML={{ __html: item }}></li>
                 ))}
               </ul>
             </div>
