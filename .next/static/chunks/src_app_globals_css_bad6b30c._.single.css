@@ -2541,20 +2541,8 @@
   }
 
   @media (min-width: 40rem) {
-    .sm\:mb-0 {
-      margin-bottom: calc(var(--spacing) * 0);
-    }
-  }
-
-  @media (min-width: 40rem) {
     .sm\:block {
       display: block;
-    }
-  }
-
-  @media (min-width: 40rem) {
-    .sm\:w-32 {
-      width: calc(var(--spacing) * 32);
     }
   }
 
@@ -2567,12 +2555,6 @@
   @media (min-width: 40rem) {
     .sm\:flex-row {
       flex-direction: row;
-    }
-  }
-
-  @media (min-width: 40rem) {
-    .sm\:items-start {
-      align-items: flex-start;
     }
   }
 
@@ -2711,12 +2693,6 @@
   @media (min-width: 48rem) {
     .md\:w-32 {
       width: calc(var(--spacing) * 32);
-    }
-  }
-
-  @media (min-width: 48rem) {
-    .md\:w-36 {
-      width: calc(var(--spacing) * 36);
     }
   }
 

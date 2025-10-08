@@ -167,7 +167,7 @@ const HeroSection = ()=>{
                 className: "mt-10 max-w-xl mx-auto text-center text-gray-600 italic text-base md:text-lg text-white flex flex-col gap-2",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "\"Le plus grand secret pour le bonheur, c'est d'être bien avec soi.\""
+                        children: "J'ai décidé d'être heureux. C'est bon pour la santé !"
                     }, void 0, false, {
                         fileName: "[project]/src/app/(components)/home/HeroSection.tsx",
                         lineNumber: 26,
@@ -175,10 +175,10 @@ const HeroSection = ()=>{
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
                         className: "mt-2 text-sm text-white/80 not-italic",
-                        children: "– Bernard Fontenelle"
+                        children: "– Voltaire"
                     }, void 0, false, {
                         fileName: "[project]/src/app/(components)/home/HeroSection.tsx",
-                        lineNumber: 27,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]

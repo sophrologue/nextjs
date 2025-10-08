@@ -23,9 +23,11 @@ const HeroSection = () => {
       
       {/* Enhanced quote section */}
       <blockquote className="mt-10 max-w-xl mx-auto text-center text-gray-600 italic text-base md:text-lg text-white flex flex-col gap-2">
-        <p>&quot;Le plus grand secret pour le bonheur, c&apos;est d&apos;être bien avec soi.&quot;</p>
+        <p>J&apos;ai décidé d&apos;être heureux.
+          C&apos;est bon pour la santé !</p>
+        
         <footer className="mt-2 text-sm text-white/80 not-italic">
-          – Bernard Fontenelle
+          – Voltaire
         </footer>
       </blockquote>
     </div>
