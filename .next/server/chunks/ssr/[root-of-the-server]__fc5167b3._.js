@@ -48,7 +48,7 @@ const ContactPage = ()=>{
                             className: "bg-white p-4 md:p-6 rounded-lg shadow-md",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-xl md:text-2xl font-semibold mb-4 md:mb-6",
+                                    className: "text-xl md:text-2xl font-semibold mb-6 text-[#005649]",
                                     children: "Informations de Contact"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -56,13 +56,13 @@ const ContactPage = ()=>{
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "space-y-4",
+                                    className: "space-y-5",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex flex-col sm:flex-row sm:items-start",
+                                            className: "grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36",
+                                                    className: "font-semibold text-[#005649] text-sm md:text-base",
                                                     children: "Téléphone :"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -70,7 +70,7 @@ const ContactPage = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "break-all",
+                                                    className: "sm:col-span-2 text-gray-700 text-sm md:text-base",
                                                     children: "06 63 33 98 90"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -84,10 +84,10 @@ const ContactPage = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex flex-col sm:flex-row sm:items-start",
+                                            className: "grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36",
+                                                    className: "font-semibold text-[#005649] text-sm md:text-base",
                                                     children: "Email :"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -95,7 +95,7 @@ const ContactPage = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "break-all text-sm md:text-base",
+                                                    className: "sm:col-span-2 text-gray-700 text-sm md:text-base break-all",
                                                     children: "catherinefabrici.sophrologue@orange.fr"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -109,10 +109,10 @@ const ContactPage = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex flex-col sm:flex-row sm:items-start",
+                                            className: "grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36",
+                                                    className: "font-semibold text-[#005649] text-sm md:text-base",
                                                     children: "Adresse :"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -120,7 +120,7 @@ const ContactPage = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "text-sm md:text-base",
+                                                    className: "sm:col-span-2 text-gray-700 text-sm md:text-base",
                                                     children: [
                                                         "6 rue de la Martillière",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
@@ -142,10 +142,10 @@ const ContactPage = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex flex-col sm:flex-row sm:items-start",
+                                            className: "grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36",
+                                                    className: "font-semibold text-[#005649] text-sm md:text-base",
                                                     children: "Horaires :"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -153,7 +153,7 @@ const ContactPage = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "text-sm md:text-base",
+                                                    className: "sm:col-span-2 text-gray-700 text-sm md:text-base",
                                                     children: [
                                                         "Lun-Ven : 10h00-20h00",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
@@ -161,7 +161,14 @@ const ContactPage = ()=>{
                                                             lineNumber: 37,
                                                             columnNumber: 40
                                                         }, ("TURBOPACK compile-time value", void 0)),
-                                                        "(sauf jeudi, sur rendez-vous uniquement)"
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-gray-600",
+                                                            children: "(sauf jeudi, sur rendez-vous uniquement)"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/contact/page.tsx",
+                                                            lineNumber: 38,
+                                                            columnNumber: 19
+                                                        }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -175,10 +182,10 @@ const ContactPage = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex flex-col sm:flex-row sm:items-start",
+                                            className: "grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36",
+                                                    className: "font-semibold text-[#005649] text-sm md:text-base",
                                                     children: "Consultations :"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -186,7 +193,7 @@ const ContactPage = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "text-sm md:text-base",
+                                                    className: "sm:col-span-2 text-gray-700 text-sm md:text-base",
                                                     children: [
                                                         "Cabinet, à domicile (personnes âgées, handicapées, invalides),",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
@@ -208,10 +215,10 @@ const ContactPage = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex flex-col sm:flex-row sm:items-start",
+                                            className: "grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36",
+                                                    className: "font-semibold text-[#005649] text-sm md:text-base",
                                                     children: "Ateliers :"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",
@@ -219,7 +226,7 @@ const ContactPage = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "text-sm md:text-base",
+                                                    className: "sm:col-span-2 text-gray-700 text-sm md:text-base",
                                                     children: "Groupes de 5 à 6 personnes sur un thème choisi"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/contact/page.tsx",

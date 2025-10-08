@@ -3,7 +3,7 @@ import React from 'react';
 const CallToActionSection = () => {
   return (
     <div className="bg-gradient-to-r from-[#005649] to-[#007562] rounded-xl text-white p-8 text-center">
-      <h2 className="text-2xl md:text-3xl font-bold text-[#005649] mb-4">
+      <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
         Prêt(e) à découvrir la sophrologie ?
       </h2>
       <p className="text-lg mb-8 opacity-95 max-w-3xl mx-auto">

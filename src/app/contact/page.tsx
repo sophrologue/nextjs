@@ -14,40 +14,40 @@ const ContactPage = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8">
           {/* Contact Information */}
           <div className="bg-white p-4 md:p-6 rounded-lg shadow-md">
-            <h2 className="text-xl md:text-2xl font-semibold mb-4 md:mb-6">Informations de Contact</h2>
-            <div className="space-y-4">
-              <div className="flex flex-col sm:flex-row sm:items-start">
-                <span className="font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36">Téléphone :</span>
-                <span className="break-all">06 63 33 98 90</span>
+            <h2 className="text-xl md:text-2xl font-semibold mb-6 text-[#005649]">Informations de Contact</h2>
+            <div className="space-y-5">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start">
+                <span className="font-semibold text-[#005649] text-sm md:text-base">Téléphone :</span>
+                <span className="sm:col-span-2 text-gray-700 text-sm md:text-base">06 63 33 98 90</span>
               </div>
-              <div className="flex flex-col sm:flex-row sm:items-start">
-                <span className="font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36">Email :</span>
-                <span className="break-all text-sm md:text-base">catherinefabrici.sophrologue@orange.fr</span>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start">
+                <span className="font-semibold text-[#005649] text-sm md:text-base">Email :</span>
+                <span className="sm:col-span-2 text-gray-700 text-sm md:text-base break-all">catherinefabrici.sophrologue@orange.fr</span>
               </div>
-              <div className="flex flex-col sm:flex-row sm:items-start">
-                <span className="font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36">Adresse :</span>
-                <span className="text-sm md:text-base">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start">
+                <span className="font-semibold text-[#005649] text-sm md:text-base">Adresse :</span>
+                <span className="sm:col-span-2 text-gray-700 text-sm md:text-base">
                   6 rue de la Martillière<br />
                   45330 Malesherbes, France
                 </span>
               </div>
-              <div className="flex flex-col sm:flex-row sm:items-start">
-                <span className="font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36">Horaires :</span>
-                <span className="text-sm md:text-base">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start">
+                <span className="font-semibold text-[#005649] text-sm md:text-base">Horaires :</span>
+                <span className="sm:col-span-2 text-gray-700 text-sm md:text-base">
                   Lun-Ven : 10h00-20h00<br />
-                  (sauf jeudi, sur rendez-vous uniquement)
+                  <span className="text-gray-600">(sauf jeudi, sur rendez-vous uniquement)</span>
                 </span>
               </div>
-              <div className="flex flex-col sm:flex-row sm:items-start">
-                <span className="font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36">Consultations :</span>
-                <span className="text-sm md:text-base">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start">
+                <span className="font-semibold text-[#005649] text-sm md:text-base">Consultations :</span>
+                <span className="sm:col-span-2 text-gray-700 text-sm md:text-base">
                   Cabinet, à domicile (personnes âgées, handicapées, invalides),<br />
                   téléconsultations et séances en visio (Skype, Zoom, Discord)
                 </span>
               </div>
-              <div className="flex flex-col sm:flex-row sm:items-start">
-                <span className="font-semibold text-[#005649] mb-1 sm:mb-0 sm:w-32 md:w-36">Ateliers :</span>
-                <span className="text-sm md:text-base">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-4 items-start">
+                <span className="font-semibold text-[#005649] text-sm md:text-base">Ateliers :</span>
+                <span className="sm:col-span-2 text-gray-700 text-sm md:text-base">
                   Groupes de 5 à 6 personnes sur un thème choisi
                 </span>
               </div>

@@ -75,14 +75,7 @@ const TarifsPage = () => {
           </div>
         </div>
 
-        <div className="mt-12 text-center">
-          <p className="text-lg mb-2 font-medium text-[#005649]">
-            Première consultation : entretien de 30 minutes offert
-          </p>
-          <p className="text-sm text-gray-600">
-            Les tarifs sont donnés à titre indicatif et peuvent être ajustés selon vos besoins.
-          </p>
-        </div>
+        
       </div>
     </div>
   );
