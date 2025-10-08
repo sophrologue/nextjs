@@ -215,5 +215,20 @@ export const reviews: Review[] = [
     comment:
       "Personne de confiance qui est à l’écoute. Elle m’a beaucoup aidé à surmonter d’anciens souvenirs d’enfance et à gérer mon stress grâce à la sophrologie. Je recommande vivement cette belle personne.",
   },
+   {
+    id: 27,
+    name: "Vero Constant",
+    date: "06.2025",
+    rating: "5/5",
+    comment:
+      "Personne très a l'écoute qui m'a beaucoup aidé pour surmonter mes angoisses et mon tress. n'hésitez pas à la consulter",
+  },   {
+    id: 28,
+    name: "AKABLA CORALIE",
+    date: "10.2025",
+    rating: "5/5",
+    comment:
+      "Mme Fabrici est très professionnelle et à l'écoute. Je vous la recommande fortement.",
+  },
 
 ];

@@ -34,7 +34,7 @@ const AvisPage = () => {
 
         {/* Avis Cards */}
         <div className="space-y-6">
-          {reviews.map((a) => (
+          {[...reviews].reverse().map((a) => (
             <div key={a.id} className="bg-white p-6 rounded-xl shadow-md border-l-4 border-[#007562]">
               <div className="flex items-center mb-2">
                 <div className="flex items-center text-yellow-400 text-lg font-bold">

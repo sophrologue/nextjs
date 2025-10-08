@@ -199,6 +199,20 @@ const reviews = [
         date: "06.2024",
         rating: "5/5",
         comment: "Personne de confiance qui est à l’écoute. Elle m’a beaucoup aidé à surmonter d’anciens souvenirs d’enfance et à gérer mon stress grâce à la sophrologie. Je recommande vivement cette belle personne."
+    },
+    {
+        id: 27,
+        name: "Vero Constant",
+        date: "06.2025",
+        rating: "5/5",
+        comment: "Personne très a l'écoute qui m'a beaucoup aidé pour surmonter mes angoisses et mon tress. n'hésitez pas à la consulter"
+    },
+    {
+        id: 28,
+        name: "AKABLA CORALIE",
+        date: "10.2025",
+        rating: "5/5",
+        comment: "Mme Fabrici est très professionnelle et à l'écoute. Je vous la recommande fortement."
     }
 ];
 }),
@@ -327,7 +341,9 @@ const AvisPage = ()=>{
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "space-y-6",
-                    children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$reviews$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["reviews"].map((a)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    children: [
+                        ...__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$avis$2f$reviews$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["reviews"]
+                    ].reverse().map((a)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "bg-white p-6 rounded-xl shadow-md border-l-4 border-[#007562]",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
