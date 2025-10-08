@@ -5,18 +5,18 @@ import ScrollIndicator from './ScrollIndicator';
 
 interface HomePageLayoutProps {
   children: ReactNode;
-  backgroundImage: StaticImageData;
+  backgroundImage: StaticImageData 
 }
 
 export default function HomePageLayout({ children, backgroundImage }: HomePageLayoutProps) {
   return (
     <section 
-      className="min-h-screen bg-cover bg-center bg-no-repeat relative overflow-hidden w-full mx-auto"
+      className="min-h-screen  bg-cover bg-center bg-no-repeat relative overflow-hidden w-full mx-auto"
       style={{
         backgroundImage: `url(${backgroundImage.src})`
       }}
     >  
-      <BackgroundOverlay />
+      {/* <BackgroundOverlay /> */}
       
       {/* Top Navigation Spacer */}
       <div className="h-16"></div>

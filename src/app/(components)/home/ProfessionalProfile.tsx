@@ -2,7 +2,7 @@ import SocialLinks from './SocialLinks';
 
 export default function ProfessionalProfile() {
   return (
-    <div className="absolute top-76 right-10 z-10 max-w-sm h-auto w-[450px] hidden md:block">
+    <div className="absolute top-75 left-10    z-10 max-w-sm h-auto w-[450px] ">
       <div className="bg-white/90 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/30 h-full overflow-y-auto">
         <h2 className="text-2xl font-bold text-[#005649] mb-2">Catherine Fabrici</h2>
         <h3 className="text-lg font-semibold text-[#007562] mb-4">Sophrologue</h3>

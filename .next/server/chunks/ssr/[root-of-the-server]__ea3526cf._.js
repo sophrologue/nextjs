@@ -219,7 +219,7 @@ const TeachingBackgroundSection = ()=>{
                             }, void 0, false, {
                                 fileName: "[project]/src/app/qui-je-suis/(components)/TeachingBackgroundSection.tsx",
                                 lineNumber: 15,
-                                columnNumber: 20
+                                columnNumber: 25
                             }, ("TURBOPACK compile-time value", void 0)),
                             " : un métier merveilleux où, au fil des ans, j'ai pu aider des centaines d'enfants à acquérir leur autonomie et à prendre leur envol. J'ai ainsi pu développer auprès de plusieurs générations d'écoliers ma faculté à transmettre les savoirs, ma capacité à aider l'autre à apprendre, connaître, ressentir et analyser."
                         ]
@@ -247,7 +247,7 @@ const TeachingBackgroundSection = ()=>{
                             }, void 0, false, {
                                 fileName: "[project]/src/app/qui-je-suis/(components)/TeachingBackgroundSection.tsx",
                                 lineNumber: 18,
-                                columnNumber: 234
+                                columnNumber: 244
                             }, ("TURBOPACK compile-time value", void 0)),
                             "."
                         ]

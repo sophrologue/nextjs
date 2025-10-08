@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <div className="absolute right-0 md:right-0 top-0 md:top-12 md:rounded-tl-lg md:rounded-bl-lg w-full md:w-[700px] h-auto md:h-[200px] bg-gradient-to-l from-[#005649] to-[#007562] shadow-2xl backdrop-blur-sm border border-white/20 flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 p-4 md:p-6 transition-all duration-300 hover:shadow-3xl hover:scale-[1.02] group ">
+    <div className="absolute left-0 top-0 md:top-10 md:rounded-tr-lg md:rounded-tr-lg w-full md:w-[700px] h-auto md:h-[200px] bg-gradient-to-l from-[#005649] to-[#007562] shadow-2xl backdrop-blur-sm border border-white/20 flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 p-4 md:p-6 transition-all duration-300 hover:shadow-3xl hover:scale-[1.02] group ">
       {/* Decorative elements */}
       <div className="absolute top-0 right-0 w-16 h-16 md:w-20 md:h-20 bg-white/10 rounded-full -translate-y-4 translate-x-4 blur-xl"></div>
       <div className="absolute bottom-0 left-0 w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-full translate-y-4 -translate-x-4 blur-lg"></div>
