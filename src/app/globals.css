@@ -17,16 +17,9 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #181a1b; /* slightly lighter than #0a0a0a for better contrast */
-    --foreground: #ededed;
-  }
-}
-
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: #ffffff;
+  color: #171717;
   font-family: var(--font-inter), Arial, Helvetica, sans-serif;
 }
 
