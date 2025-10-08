@@ -2,11 +2,16 @@ import React from 'react';
 
 const SophrologieEtCancerPage = () => {
   return (
-    <div className="min-h-screen pt-16 px-4 bg-white">
-      <div className="max-w-4xl mx-auto py-10">
-        <h1 className="text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight">
+    <div className="min-h-screen pt-16 px-4 ">
+      <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
           Sophrologie et Cancer
         </h1>
+      </div>
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <p className="text-lg text-gray-700 mb-6">
+          La sophrologie peut aider et offrir un accompagnement dans le parcours des soins de support pour les malades.
+        </p>
         <div className="space-y-8">
           {/* Introduction */}
           <div className="bg-white rounded-2xl shadow p-6">

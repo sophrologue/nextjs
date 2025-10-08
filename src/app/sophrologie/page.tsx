@@ -1,7 +1,7 @@
 import React from 'react';
 
 const faussesIdees = [
-  "Ce n&rsquo;est pas de la psychologie.",
+  "Ce              Qu&rsquo;est-ce que la sophrologie ?</h2>quo;est pas de la psychologie.",
   "Ce n&rsquo;est pas de l&rsquo;hypnose.",
   "Elle n&rsquo;est pas réservée uniquement aux personnes malades.",
 ];

@@ -19,7 +19,7 @@ const themes = [
 
 const HypnoseHumanistePage = () => {
   return (
-    <div className="min-h-screen pt-16 px-4 bg-white">
+    <div className="min-h-screen pt-16 px-4 ">
       <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
         <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
           Hypnose Humaniste

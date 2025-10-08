@@ -20,17 +20,17 @@ __turbopack_context__.s([
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 ;
 const faussesIdees = [
-    "Ce n'est pas de la psychologie.",
-    "Ce n'est pas de l'hypnose.",
-    "Elle n'est pas réservée uniquement aux personnes malades."
+    "Ce              Qu&rsquo;est-ce que la sophrologie ?</h2>quo;est pas de la psychologie.",
+    "Ce n&rsquo;est pas de l&rsquo;hypnose.",
+    "Elle n&rsquo;est pas réservée uniquement aux personnes malades."
 ];
 const verites = [
     "Elle vous permettra de voir la vie de façon plus positive.",
     "Les séances sont adaptées à votre personnalité et à vos besoins.",
-    "L'efficacité est prouvée scientifiquement.",
+    "L&rsquo;efficacité est prouvée scientifiquement.",
     "Les exercices de respiration amènent calme et détente.",
     "La sophrologie est une pédagogie positive, elle vous permettra de retrouver le bonheur de vivre avec légèreté tout simplement.",
-    "Elle peut être un complément d'une thérapie avec un psychologue ou psychanalyste.",
+    "Elle peut être un complément d&rsquo;une thérapie avec un psychologue ou psychanalyste.",
     "Elle est prise en charge par certaines mutuelles."
 ];
 const applications = [
@@ -38,13 +38,13 @@ const applications = [
     "Le burn-out ou le bore-out.",
     "Apprendre à lâcher prise.",
     "Retrouver un sommeil réparateur, la confiance en soi, la concentration.",
-    "Accompagnement de la grossesse jusqu'à l'accouchement.",
-    "Se donner de l'énergie pour lutter contre la fatigue.",
+    "Accompagnement de la grossesse jusqu&rsquo;à l&rsquo;accouchement.",
+    "Se donner de l&rsquo;énergie pour lutter contre la fatigue.",
     "Pour la femme, vivre avec plus de sérénité la période de la ménopause.",
     "La préparation mentale aux examens, compétitions sportives, entretiens professionnels.",
     "Certaines maladies graves comme le cancer.",
-    "L'angoisse et l'anxiété, la dépression.",
-    "Les douleurs, les migraines, l'urticaire.",
+    "L&rsquo;angoisse et l&rsquo;anxiété, la dépression.",
+    "Les douleurs, les migraines, l&rsquo;urticaire.",
     "Stress lié aux changements : mariage, déménagement, décès."
 ];
 const bienfaits = [
@@ -82,7 +82,7 @@ const SophrologiePage = ()=>{
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-lg text-gray-700 mb-6",
-                        children: "La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l'esprit."
+                        children: "La sophrologie est une méthode psycho-corporelle qui vise à retrouver un équilibre entre le corps et l’esprit."
                     }, void 0, false, {
                         fileName: "[project]/src/app/sophrologie/page.tsx",
                         lineNumber: 55,
@@ -93,7 +93,7 @@ const SophrologiePage = ()=>{
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "text-4xl font-bold mb-8 text-center text-[#005649] tracking-tight",
-                                children: "Qu'est-ce que la sophrologie ?"
+                                children: "Qu’est-ce que la sophrologie ?"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/sophrologie/page.tsx",
                                 lineNumber: 59,
@@ -115,7 +115,7 @@ const SophrologiePage = ()=>{
                                                         lineNumber: 66,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
-                                                    ", c'est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale."
+                                                    ", c’est avant tout une technique simple, une méthode de développement personnel. Ce sont des exercices à base de respiration qui vont vous permettre dans un premier temps une reconnexion au corps et vous amener vers une détente musculaire et mentale."
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
@@ -147,7 +147,7 @@ const SophrologiePage = ()=>{
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-lg mb-4",
-                                                children: "Elle permet d'établir un équilibre, une harmonie entre le corps et l'esprit afin d'augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources."
+                                                children: "Elle permet d’établir un équilibre, une harmonie entre le corps et l’esprit afin d’augmenter tous vos potentiels. Vous prendrez conscience de vos propres ressources."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
                                                 lineNumber: 74,
@@ -155,7 +155,7 @@ const SophrologiePage = ()=>{
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-lg",
-                                                children: "La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l'objectif que nous aurons défini ensemble."
+                                                children: "La pratique des exercices de sophrologie vous permettra de trouver un bien-être au quotidien selon l’objectif que nous aurons défini ensemble."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/page.tsx",
                                                 lineNumber: 77,

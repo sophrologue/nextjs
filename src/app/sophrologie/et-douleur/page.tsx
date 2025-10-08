@@ -2,19 +2,16 @@ import React from 'react';
 
 const SophrologieEtDouleurPage = () => {
   return (
-    <div className="min-h-screen pt-16 px-4 bg-white">
-      <div className="max-w-4xl mx-auto py-10">
-        <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
-          <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
-            Sophrologie et douleur
-          </h1>
-          
-        </div>
-        <div className="max-w-3xl mx-auto px-4 py-8">
-          <p className="text-lg text-gray-700 mb-6">
-            La sophrologie aide à mieux vivre avec la douleur chronique et à retrouver de l&apos;autonomie au quotidien.
-          </p>
-        </div>
+    <div className="min-h-screen pt-16 px-4 ">
+      <div className="bg-gradient-to-r from-[#005649] to-[#007562] py-12">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg text-center">
+          Sophrologie et douleur
+        </h1>
+      </div>
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <p className="text-lg text-gray-700 mb-6">
+          La sophrologie aide à mieux vivre avec la douleur chronique et à retrouver de l&apos;autonomie au quotidien.
+        </p>
         <div className="space-y-8">
           {/* Context */}
           <div className="bg-white rounded-2xl shadow p-6">

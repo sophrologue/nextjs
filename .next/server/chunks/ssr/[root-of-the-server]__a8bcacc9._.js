@@ -98,7 +98,7 @@ const HypnoseHumanistePage = ()=>{
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-lg mb-4",
-                                        children: "Qu’il s’agisse de petits soucis du quotidien ou d’événements de vie douloureux (deuil, traumatisme, relation professionnelle, addiction...), l’hypnothérapie offre une solution rapide et efficace pour vivre mieux et se libérer."
+                                        children: "Qu'il s'agisse de petits soucis du quotidien ou d'événements de vie douloureux (deuil, traumatisme, relation professionnelle, addiction...), l'hypnothérapie offre une solution rapide et efficace pour vivre mieux et se libérer."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                         lineNumber: 42,
@@ -147,14 +147,14 @@ const HypnoseHumanistePage = ()=>{
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                children: "Permet d’accéder à vos ressources intérieures et de replacer l’harmonie au cœur de votre vie."
+                                                children: "Permet d'accéder à vos ressources intérieures et de replacer l'harmonie au cœur de votre vie."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                 lineNumber: 55,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                children: "Permet de contourner les blocages, croyances limitantes et d’aller chercher en profondeur vos réponses."
+                                                children: "Permet de contourner les blocages, croyances limitantes et d'aller chercher en profondeur vos réponses."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                 lineNumber: 56,
@@ -199,7 +199,7 @@ const HypnoseHumanistePage = ()=>{
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         className: "text-2xl font-semibold mb-4 text-purple-800",
-                                        children: "Thèmes pour lesquels l’hypnose vous aidera particulièrement"
+                                        children: "Thèmes pour lesquels l'hypnose vous aidera particulièrement"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                         lineNumber: 68,
@@ -258,13 +258,13 @@ const HypnoseHumanistePage = ()=>{
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                        children: "Travail d’hypnose :"
+                                                        children: "Travail d'hypnose :"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                         lineNumber: 84,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
-                                                    " Je vous accompagne pour chercher en vous vos propres solutions, car tout est déjà à l’intérieur de vous."
+                                                    " Je vous accompagne pour chercher en vous vos propres solutions, car tout est déjà à l'intérieur de vous."
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
@@ -296,13 +296,13 @@ const HypnoseHumanistePage = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "bg-white border-l-4 border-teal-400 p-4 rounded text-teal-700",
                                         children: [
-                                            "J’allie les deux méthodes ",
+                                            "J'allie les deux méthodes ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                                 children: "SOPHROLOGIE"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                 lineNumber: 91,
-                                                columnNumber: 41
+                                                columnNumber: 46
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             " et ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
@@ -310,7 +310,7 @@ const HypnoseHumanistePage = ()=>{
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                 lineNumber: 91,
-                                                columnNumber: 73
+                                                columnNumber: 78
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             " qui sont toutes deux extrêmement complémentaires."
                                         ]
@@ -340,7 +340,7 @@ const HypnoseHumanistePage = ()=>{
                                         className: "list-disc list-inside space-y-2 text-gray-700 mb-2",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                children: "Contourner les freins conscients et travailler en profondeur avec l’inconscient"
+                                                children: "Contourner les freins conscients et travailler en profondeur avec l'inconscient"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                 lineNumber: 99,
@@ -375,7 +375,7 @@ const HypnoseHumanistePage = ()=>{
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-purple-700",
-                                        children: "L'Hypnose Humaniste vous permet d’accéder à vos ressources intérieures et de replacer l'harmonie au cœur de votre vie."
+                                        children: "L'Hypnose Humaniste vous permet d'accéder à vos ressources intérieures et de replacer l'harmonie au cœur de votre vie."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                         lineNumber: 104,
@@ -414,11 +414,11 @@ const HypnoseHumanistePage = ()=>{
                                                     " ",
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         className: "text-[#007562]",
-                                                        children: "65 euros"
+                                                        children: "60 euros"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/sophrologie/hypnose-humaniste/page.tsx",
                                                         lineNumber: 114,
-                                                        columnNumber: 120
+                                                        columnNumber: 125
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     " la séance"
                                                 ]
