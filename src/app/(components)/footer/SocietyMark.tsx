@@ -4,7 +4,7 @@ import sophrologySocietyMark from '../../(assets)/society_mark.jpeg';
 
 const SocietyMark = () => {
   return (
-    <div className="flex items-center w-full justify-center bg-white  p-4 shadow-lg">
+    <div className="flex items-center md:w-full justify-center bg-white  p-4 shadow-lg">
       <Image 
         src={sophrologySocietyMark} 
         alt="Sophrologie Society Member" 
