@@ -111,7 +111,7 @@ const HypnoseHumanistePage = () => {
             <h2 className="text-2xl font-semibold mb-4 text-[#005649]">Tarif séance hypnose</h2>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
               <li>
-                <span className="font-semibold">Séance hypnose dans le cadre d&apos;un suivi sophrologie + hypnose :</span> <span className="text-[#007562]">65&nbsp;euros</span> la séance
+                <span className="font-semibold">Séance hypnose dans le cadre d&apos;un suivi sophrologie + hypnose :</span> <span className="text-[#007562]">60&nbsp;euros</span> la séance
               </li>
               <li>
                 <span className="font-semibold">Séance hypnose seule :</span> <span className="text-[#007562]">70&nbsp;euros</span>

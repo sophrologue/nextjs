@@ -3,5 +3,6 @@
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/mediation/page": "app/mediation/page.js",
   "/page": "app/page.js",
-  "/qui-je-suis/page": "app/qui-je-suis/page.js"
+  "/qui-je-suis/page": "app/qui-je-suis/page.js",
+  "/tarifs/page": "app/tarifs/page.js"
 }
