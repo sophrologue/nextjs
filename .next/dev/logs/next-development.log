@@ -1,0 +1,32 @@
+[00:00:00.510] Server  LOG      ✓ Ready in 371ms
+[00:00:04.200] Browser ERROR   In HTML, %s cannot be a child of <%s>.%s
+This will cause a hydration error.%s <footer> html  
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+>                       <html lang="fr">
+                          <head>
+                          <body>
+>                         <footer
+>                           className="bg-[#f8fafc] text-center text-gray-700 text-sm py-6 mt-8 border-t border-gray-200"
+>                         >
+                  ...
+
+[00:00:05.254] Browser WARN    Image with src "/_next/static/media/catherine-fabrici.ba9c7d06.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:05.254] Browser WARN    Image with src "/_next/static/media/catherine-fabrici.ba9c7d06.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.
