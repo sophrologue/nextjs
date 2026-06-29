@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/avis/layout,_N_T_/avis/page,_N_T_/avis"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/avis/__PAGE__",
+    "/avis",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/sophrologie/layout,_N_T_/sophrologie/et-douleur/layout,_N_T_/sophrologie/et-douleur/page,_N_T_/sophrologie/et-douleur"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/sophrologie/et-douleur/__PAGE__",
+    "/sophrologie/et-douleur",
+    "/sophrologie",
+    "/_index",
+    "/_head"
+  ]
+}

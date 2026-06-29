@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/mediation/layout,_N_T_/mediation/page,_N_T_/mediation"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/mediation/__PAGE__",
+    "/mediation",
+    "/_index",
+    "/_head"
+  ]
+}
