@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/avis/page": "/avis",
+  "/contact/page": "/contact",
+  "/favicon.ico/route": "/favicon.ico",
+  "/mediation/page": "/mediation",
+  "/page": "/",
+  "/qui-je-suis/page": "/qui-je-suis",
+  "/sophrologie/enfant-et-adolescent/page": "/sophrologie/enfant-et-adolescent",
+  "/sophrologie/et-cancer/page": "/sophrologie/et-cancer",
+  "/sophrologie/et-douleur/page": "/sophrologie/et-douleur",
+  "/sophrologie/hypnose-humaniste/page": "/sophrologie/hypnose-humaniste",
+  "/sophrologie/page": "/sophrologie",
+  "/sophrologie/stress-au-travail/page": "/sophrologie/stress-au-travail",
+  "/tarifs/page": "/tarifs"
+}
