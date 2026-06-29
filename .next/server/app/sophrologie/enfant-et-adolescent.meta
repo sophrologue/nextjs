@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/sophrologie/layout,_N_T_/sophrologie/enfant-et-adolescent/layout,_N_T_/sophrologie/enfant-et-adolescent/page,_N_T_/sophrologie/enfant-et-adolescent"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/sophrologie/enfant-et-adolescent/__PAGE__",
+    "/sophrologie/enfant-et-adolescent",
+    "/sophrologie",
+    "/_index",
+    "/_head"
+  ]
+}

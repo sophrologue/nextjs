@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/qui-je-suis/layout,_N_T_/qui-je-suis/page,_N_T_/qui-je-suis"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/qui-je-suis/__PAGE__",
+    "/qui-je-suis",
+    "/_index",
+    "/_head"
+  ]
+}

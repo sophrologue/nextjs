@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/sophrologie/layout,_N_T_/sophrologie/et-cancer/layout,_N_T_/sophrologie/et-cancer/page,_N_T_/sophrologie/et-cancer"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/sophrologie/et-cancer/__PAGE__",
+    "/sophrologie/et-cancer",
+    "/sophrologie",
+    "/_index",
+    "/_head"
+  ]
+}
