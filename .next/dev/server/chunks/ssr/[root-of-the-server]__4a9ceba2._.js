@@ -74,12 +74,12 @@ const Navigation = ()=>{
                 }, void 0, false, {
                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
                     lineNumber: 37,
-                    columnNumber: 17
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
                 lineNumber: 36,
-                columnNumber: 13
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "hidden md:block",
@@ -93,19 +93,19 @@ const Navigation = ()=>{
                             children: "Sophrologue Certifiée"
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 46,
-                            columnNumber: 21
+                            lineNumber: 53,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                    lineNumber: 44,
-                    columnNumber: 17
+                    lineNumber: 48,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                lineNumber: 43,
-                columnNumber: 13
+                lineNumber: 47,
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
                 className: "hidden md:flex items-center justify-center flex-1",
@@ -122,19 +122,19 @@ const Navigation = ()=>{
                                         className: `absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${isActive("/") ? "w-full" : "w-0 group-hover:w-full"}`
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                        lineNumber: 60,
-                                        columnNumber: 29
+                                        lineNumber: 72,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 54,
-                                columnNumber: 25
+                                lineNumber: 63,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 53,
-                            columnNumber: 21
+                            lineNumber: 62,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -146,19 +146,19 @@ const Navigation = ()=>{
                                         className: `absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${isActive("/qui-je-suis") ? "w-full" : "w-0 group-hover:w-full"}`
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                        lineNumber: 72,
-                                        columnNumber: 29
+                                        lineNumber: 89,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 66,
-                                columnNumber: 25
+                                lineNumber: 80,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 65,
-                            columnNumber: 21
+                            lineNumber: 79,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             className: "relative group",
@@ -180,26 +180,26 @@ const Navigation = ()=>{
                                                 d: "M19 9l-7 7-7-7"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 85,
-                                                columnNumber: 33
+                                                lineNumber: 112,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 84,
-                                            columnNumber: 29
+                                            lineNumber: 106,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: `absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${isActive("/sophrologie") ? "w-full" : "w-0 group-hover:w-full"}`
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 87,
-                                            columnNumber: 29
+                                            lineNumber: 119,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                    lineNumber: 78,
-                                    columnNumber: 25
+                                    lineNumber: 97,
+                                    columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "absolute top-full left-0 mt-2 w-72 bg-white/95 backdrop-blur-md shadow-xl rounded-xl border border-white/20 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50",
@@ -214,15 +214,15 @@ const Navigation = ()=>{
                                                         className: "w-2 h-2 bg-[#005649] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                        lineNumber: 95,
-                                                        columnNumber: 37
+                                                        lineNumber: 132,
+                                                        columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Sophrologie"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 94,
-                                                columnNumber: 33
+                                                lineNumber: 128,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "/sophrologie/et-douleur",
@@ -232,15 +232,15 @@ const Navigation = ()=>{
                                                         className: "w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                        lineNumber: 99,
-                                                        columnNumber: 37
+                                                        lineNumber: 139,
+                                                        columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Sophrologie et douleur"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 98,
-                                                columnNumber: 33
+                                                lineNumber: 135,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "/sophrologie/et-cancer",
@@ -250,15 +250,15 @@ const Navigation = ()=>{
                                                         className: "w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                        lineNumber: 103,
-                                                        columnNumber: 37
+                                                        lineNumber: 146,
+                                                        columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Sophrologie et cancer"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 102,
-                                                columnNumber: 33
+                                                lineNumber: 142,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "/sophrologie/enfant-et-adolescent",
@@ -268,15 +268,15 @@ const Navigation = ()=>{
                                                         className: "w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                        lineNumber: 107,
-                                                        columnNumber: 37
+                                                        lineNumber: 153,
+                                                        columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
-                                                    "L'enfant et l'adolescent"
+                                                    "L'adolescent"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 106,
-                                                columnNumber: 33
+                                                lineNumber: 149,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "/sophrologie/stress-au-travail",
@@ -286,15 +286,15 @@ const Navigation = ()=>{
                                                         className: "w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                        lineNumber: 111,
-                                                        columnNumber: 37
+                                                        lineNumber: 160,
+                                                        columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Le stress au travail"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 110,
-                                                columnNumber: 33
+                                                lineNumber: 156,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "/sophrologie/hypnose-humaniste",
@@ -304,32 +304,32 @@ const Navigation = ()=>{
                                                         className: "w-2 h-2 bg-[#007562] rounded-full mr-3 opacity-0 group-hover/item:opacity-100 transition-opacity duration-200"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                        lineNumber: 115,
-                                                        columnNumber: 37
+                                                        lineNumber: 167,
+                                                        columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Hypnose Humaniste"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 114,
-                                                columnNumber: 33
+                                                lineNumber: 163,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                        lineNumber: 93,
-                                        columnNumber: 29
+                                        lineNumber: 127,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                    lineNumber: 92,
-                                    columnNumber: 25
+                                    lineNumber: 126,
+                                    columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 77,
-                            columnNumber: 21
+                            lineNumber: 96,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -341,19 +341,19 @@ const Navigation = ()=>{
                                         className: `absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${isActive("/tarifs") ? "w-full" : "w-0 group-hover:w-full"}`
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                        lineNumber: 128,
-                                        columnNumber: 29
+                                        lineNumber: 183,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 122,
-                                columnNumber: 25
+                                lineNumber: 174,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 121,
-                            columnNumber: 21
+                            lineNumber: 173,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -365,19 +365,19 @@ const Navigation = ()=>{
                                         className: `absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${isActive("/avis") ? "w-full" : "w-0 group-hover:w-full"}`
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                        lineNumber: 140,
-                                        columnNumber: 29
+                                        lineNumber: 200,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 134,
-                                columnNumber: 25
+                                lineNumber: 191,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 133,
-                            columnNumber: 21
+                            lineNumber: 190,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -389,30 +389,30 @@ const Navigation = ()=>{
                                         className: `absolute bottom-0 left-0 h-0.5 bg-[#005649] transition-all duration-300 ${isActive("/mediation") ? "w-full" : "w-0 group-hover:w-full"}`
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                        lineNumber: 152,
-                                        columnNumber: 29
+                                        lineNumber: 217,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 146,
-                                columnNumber: 25
+                                lineNumber: 208,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 145,
-                            columnNumber: 21
+                            lineNumber: 207,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                    lineNumber: 52,
-                    columnNumber: 17
+                    lineNumber: 61,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                lineNumber: 51,
-                columnNumber: 13
+                lineNumber: 60,
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "hidden md:block",
@@ -422,13 +422,13 @@ const Navigation = ()=>{
                     children: "Me contacter"
                 }, void 0, false, {
                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                    lineNumber: 162,
-                    columnNumber: 17
+                    lineNumber: 229,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                lineNumber: 161,
-                columnNumber: 13
+                lineNumber: 228,
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: toggleMenu,
@@ -441,41 +441,41 @@ const Navigation = ()=>{
                             className: `block w-5 h-0.5 bg-[#005649] transition-all duration-300 ${isMenuOpen ? "rotate-45 translate-y-1.5" : "-translate-y-1"}`
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 174,
-                            columnNumber: 21
+                            lineNumber: 244,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: `block w-5 h-0.5 bg-[#005649] transition-all duration-300 ${isMenuOpen ? "opacity-0" : "opacity-100"}`
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 175,
-                            columnNumber: 21
+                            lineNumber: 247,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: `block w-5 h-0.5 bg-[#005649] transition-all duration-300 ${isMenuOpen ? "-rotate-45 -translate-y-1.5" : "translate-y-1"}`
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 176,
-                            columnNumber: 21
+                            lineNumber: 250,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                    lineNumber: 173,
-                    columnNumber: 17
+                    lineNumber: 243,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                lineNumber: 168,
-                columnNumber: 13
+                lineNumber: 238,
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             isMenuOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "md:hidden fixed inset-0 bg-black/50 z-40",
                 onClick: closeMenu
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                lineNumber: 182,
-                columnNumber: 17
+                lineNumber: 258,
+                columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
                 className: `md:hidden fixed top-16 right-0 h-screen w-80 bg-white shadow-xl transform transition-transform duration-300 z-50 overflow-y-auto ${isMenuOpen ? "translate-x-0" : "translate-x-full"}`,
@@ -490,13 +490,13 @@ const Navigation = ()=>{
                                 children: "Accueil"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 189,
-                                columnNumber: 25
+                                lineNumber: 270,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 188,
-                            columnNumber: 21
+                            lineNumber: 269,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -506,13 +506,13 @@ const Navigation = ()=>{
                                 children: "Qui je suis"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 202,
-                                columnNumber: 25
+                                lineNumber: 283,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 201,
-                            columnNumber: 21
+                            lineNumber: 282,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             className: "border-b border-gray-100",
@@ -534,19 +534,19 @@ const Navigation = ()=>{
                                                 d: "M19 9l-7 7-7-7"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                                lineNumber: 225,
-                                                columnNumber: 33
+                                                lineNumber: 311,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 224,
-                                            columnNumber: 29
+                                            lineNumber: 305,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                    lineNumber: 215,
-                                    columnNumber: 25
+                                    lineNumber: 296,
+                                    columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: `overflow-hidden transition-all duration-300 bg-gray-50 ${isSophrologieOpen ? "max-h-96" : "max-h-0"}`,
@@ -558,8 +558,8 @@ const Navigation = ()=>{
                                             children: "Sophrologie"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 230,
-                                            columnNumber: 29
+                                            lineNumber: 323,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/sophrologie/et-douleur",
@@ -568,8 +568,8 @@ const Navigation = ()=>{
                                             children: "Sophrologie et douleur"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 241,
-                                            columnNumber: 29
+                                            lineNumber: 334,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/sophrologie/et-cancer",
@@ -578,8 +578,8 @@ const Navigation = ()=>{
                                             children: "Sophrologie et cancer"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 252,
-                                            columnNumber: 29
+                                            lineNumber: 345,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/sophrologie/enfant-et-adolescent",
@@ -588,8 +588,8 @@ const Navigation = ()=>{
                                             children: "L'enfant et l'adolescent"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 263,
-                                            columnNumber: 29
+                                            lineNumber: 356,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/sophrologie/stress-au-travail",
@@ -598,8 +598,8 @@ const Navigation = ()=>{
                                             children: "Le stress au travail"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 274,
-                                            columnNumber: 29
+                                            lineNumber: 367,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/sophrologie/hypnose-humaniste",
@@ -608,20 +608,20 @@ const Navigation = ()=>{
                                             children: "Hypnose Humaniste"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                            lineNumber: 285,
-                                            columnNumber: 29
+                                            lineNumber: 378,
+                                            columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                    lineNumber: 229,
-                                    columnNumber: 25
+                                    lineNumber: 320,
+                                    columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 214,
-                            columnNumber: 21
+                            lineNumber: 295,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -631,13 +631,13 @@ const Navigation = ()=>{
                                 children: "Tarifs"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 299,
-                                columnNumber: 25
+                                lineNumber: 392,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 298,
-                            columnNumber: 21
+                            lineNumber: 391,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -647,13 +647,13 @@ const Navigation = ()=>{
                                 children: "Avis"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 312,
-                                columnNumber: 25
+                                lineNumber: 405,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 311,
-                            columnNumber: 21
+                            lineNumber: 404,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -663,13 +663,13 @@ const Navigation = ()=>{
                                 children: "Médiation"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 325,
-                                columnNumber: 25
+                                lineNumber: 418,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 324,
-                            columnNumber: 21
+                            lineNumber: 417,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -679,30 +679,30 @@ const Navigation = ()=>{
                                 children: "Me contacter"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                                lineNumber: 338,
-                                columnNumber: 25
+                                lineNumber: 431,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                            lineNumber: 337,
-                            columnNumber: 21
+                            lineNumber: 430,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                    lineNumber: 187,
-                    columnNumber: 17
+                    lineNumber: 268,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/app/(components)/header/Navigation.tsx",
-                lineNumber: 186,
-                columnNumber: 13
+                lineNumber: 265,
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/(components)/header/Navigation.tsx",
         lineNumber: 34,
-        columnNumber: 9
+        columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
 const __TURBOPACK__default__export__ = Navigation;
