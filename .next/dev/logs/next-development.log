@@ -1,11 +1,29 @@
-[00:00:01.171] Server  LOG     
-[00:00:01.171] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
-[00:00:01.171] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+[00:00:01.285] Server  LOG      ✓ Ready in 1176ms
+[00:00:07.693] Browser WARN    Image with src "/_next/static/media/catherine-fabrici.ba9c7d06.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:07.693] Browser WARN    Image with src "/_next/static/media/catherine-fabrici.ba9c7d06.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.
+[00:01:45.211] Browser ERROR   ./src/app/tarifs/page.tsx:25:40
+Parsing ecmascript source code failed
+  23 |         <div className="grid md:grid-cols-2 gap-8">
+  24 |           {/* Enfant / Adolescent jusqu'à 12 ans */} 
+> 25 |           {/**//**ENFANT 삭제 6.29*/ */}
+     |                                        ^
+  26 |           {/* Adolescent 13-17 ans */}
+  27 |           <div className="bg-white rounded-xl shadow-md p-6 border-l-4 border-[#005649] flex flex-col justify-between">
+  28 |             <div>
 
-[00:00:01.171] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
-[00:00:01.171] Server  LOG     
-[00:00:01.171] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+Expression expected
+[00:01:45.211] Browser ERROR   ./src/app/tarifs/page.tsx:25:41
+Parsing ecmascript source code failed
+  23 |         <div className="grid md:grid-cols-2 gap-8">
+  24 |           {/* Enfant / Adolescent jusqu'à 12 ans */} 
+> 25 |           {/**//**ENFANT 삭제 6.29*/ */}
+     |                                         ^^
+  26 |           {/* Adolescent 13-17 ans */}
+  27 |           <div className="bg-white rounded-xl shadow-md p-6 border-l-4 border-[#005649] flex flex-col justify-between">
+  28 |             <div>
 
-[00:00:01.171] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
-[00:00:01.172] Server  LOG     
-[00:00:01.238] Server  LOG      ✓ Ready in 1132ms
+Unterminated regexp literal
+[00:07:52.609] Server  LOG      ✓ Compiled in 33ms
+[00:08:00.765] Server  LOG      ✓ Compiled in 27ms
+[00:08:10.191] Server  LOG      ✓ Compiled in 27ms
+[00:08:11.081] Server  LOG      ✓ Compiled in 28ms
