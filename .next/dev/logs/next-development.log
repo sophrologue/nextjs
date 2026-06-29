@@ -1,1 +1,200 @@
 [00:00:00.534] Server  LOG      ✓ Ready in 383ms
+[01:29:27.458] Server  ERROR    ⨯ ./src/app/avis/page.tsx:4:1
+Module not found: Can't resolve '@/lib/supabase'
+  2 | import { useEffect, useState } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import supabase from '@/lib/supabase';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | interface Review {
+  7 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/avis/page.tsx [Client Component Browser]
+    ./src/app/avis/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/avis/page.tsx [Client Component SSR]
+    ./src/app/avis/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.462] Server  ERROR    ⨯ ./src/app/avis/page.tsx:4:1
+Module not found: Can't resolve '@/lib/supabase'
+  2 | import { useEffect, useState } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import supabase from '@/lib/supabase';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | interface Review {
+  7 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/avis/page.tsx [Client Component Browser]
+    ./src/app/avis/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/avis/page.tsx [Client Component SSR]
+    ./src/app/avis/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.464] Server  ERROR    ⨯ ./src/app/avis/page.tsx:4:1
+Module not found: Can't resolve '@/lib/supabase'
+  2 | import { useEffect, useState } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import supabase from '@/lib/supabase';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | interface Review {
+  7 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/avis/page.tsx [Client Component Browser]
+    ./src/app/avis/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/avis/page.tsx [Client Component SSR]
+    ./src/app/avis/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.467] Server  ERROR    ⨯ ./src/app/avis/page.tsx:4:1
+Module not found: Can't resolve '@/lib/supabase'
+  2 | import { useEffect, useState } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import supabase from '@/lib/supabase';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | interface Review {
+  7 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/avis/page.tsx [Client Component Browser]
+    ./src/app/avis/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/avis/page.tsx [Client Component SSR]
+    ./src/app/avis/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.469] Server  ERROR    ⨯ ./src/app/tarifs/page.tsx:3:1
+Module not found: Can't resolve '@/lib/supabase'
+  1 | import React from "react";
+  2 | import Link from "next/link";
+> 3 | import supabase from "@/lib/supabase";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | type Tarif = {
+  6 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.469] Server  ERROR    ⨯ ./src/app/tarifs/page.tsx:3:1
+Module not found: Can't resolve '@/lib/supabase'
+  1 | import React from "react";
+  2 | import Link from "next/link";
+> 3 | import supabase from "@/lib/supabase";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | type Tarif = {
+  6 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.470] Server  ERROR    ⨯ ./src/app/tarifs/page.tsx:3:1
+Module not found: Can't resolve '@/lib/supabase'
+  1 | import React from "react";
+  2 | import Link from "next/link";
+> 3 | import supabase from "@/lib/supabase";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | type Tarif = {
+  6 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.471] Server  ERROR    ⨯ ./src/app/tarifs/page.tsx:3:1
+Module not found: Can't resolve '@/lib/supabase'
+  1 | import React from "react";
+  2 | import Link from "next/link";
+> 3 | import supabase from "@/lib/supabase";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | type Tarif = {
+  6 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:29:27.597] Browser ERROR   ./src/app/avis/page.tsx:4:1
+Module not found: Can't resolve '@/lib/supabase'
+  2 | import { useEffect, useState } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import supabase from '@/lib/supabase';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | interface Review {
+  7 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./src/app/avis/page.tsx [Client Component Browser]
+    ./src/app/avis/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/avis/page.tsx [Client Component SSR]
+    ./src/app/avis/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:29:27.597] Browser ERROR   ./src/app/tarifs/page.tsx:3:1
+Module not found: Can't resolve '@/lib/supabase'
+  1 | import React from "react";
+  2 | import Link from "next/link";
+> 3 | import supabase from "@/lib/supabase";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | type Tarif = {
+  6 |   id: number;
+
+Import map: aliased to relative './src/lib/supabase' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
