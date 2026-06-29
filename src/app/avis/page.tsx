@@ -1,8 +1,18 @@
-import React from 'react';
+'use client';
+import React, { useEffect } from 'react';
 import { reviews } from './reviews';
 import { getAverageRating } from './helpers';
+import supabase from '@/lib/supabase';
 
 const AvisPage = () => {
+  useEffect(() => {
+    const fetchReviews = async () => {
+      const { data, error } = await supabase.from('reviews').select('*');
+      if (error) console.error('Supabase error:', error);
+      else console.log('Reviews from Supabase:', data);
+    };
+    fetchReviews();
+  }, []);
   const average = getAverageRating(reviews);
 
   return (
